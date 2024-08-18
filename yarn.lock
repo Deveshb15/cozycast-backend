@@ -45,13 +45,14 @@
     tslib "2.6.2"
     uid "2.0.2"
 
-"@neynar/nodejs-sdk@^1.18.0":
-  version "1.18.0"
-  resolved "https://registry.npmjs.org/@neynar/nodejs-sdk/-/nodejs-sdk-1.18.0.tgz"
-  integrity sha512-5wwtn0A/jpFfaHyXu+2CDdUwyOfhnkK/8HG18GZuO0NsGoSlVMRJHItIYEBpBjwzdAMyxcaxxZ/njr5wr/P8dA==
+"@neynar/nodejs-sdk@^1.44.0":
+  version "1.44.0"
+  resolved "https://registry.npmjs.org/@neynar/nodejs-sdk/-/nodejs-sdk-1.44.0.tgz"
+  integrity sha512-9SXQ/h0TIuhjkBw93kIbp9udPbBimUS/WcgmHXMoAidHp6aw/W0qNdq9WuKd8bUabm18JG9ci27f02XuEqG7BQ==
   dependencies:
     "@openapitools/openapi-generator-cli" "^2.7.0"
     axios "^1.6.2"
+    semver "^7.6.0"
     viem "^1.19.9"
 
 "@noble/curves@~1.2.0", "@noble/curves@1.2.0":
@@ -175,10 +176,10 @@ asynckit@^0.4.0:
   resolved "https://registry.npmjs.org/asynckit/-/asynckit-0.4.0.tgz"
   integrity sha512-Oei9OH4tRh0YqU3GxhX79dM/mwVgvbZJaSNaRk+bshkj0S5cfHcgYakreBjrHwatXKbz+IoIdYLxrKim2MjW0Q==
 
-axios@^1.3.1, axios@^1.6.2:
-  version "1.6.8"
-  resolved "https://registry.npmjs.org/axios/-/axios-1.6.8.tgz"
-  integrity sha512-v/ZHtJDU39mDpyBoFVkETcd/uNdxrWRrg3bKpOKzXFA6Bvqopts6ALSMU3y6ijYxbw2B+wPrIv46egTzJXCLGQ==
+axios@^1.3.1, axios@^1.6.2, axios@^1.7.4:
+  version "1.7.4"
+  resolved "https://registry.npmjs.org/axios/-/axios-1.7.4.tgz"
+  integrity sha512-DukmaFRnY6AzAALSH4J2M3k6PkaC+MfaAGdEERRWcC9q3/TWQwLpHR8ZRLKTdQ3aBDL64EdluRDjJqKw+BPZEw==
   dependencies:
     follow-redirects "^1.15.6"
     form-data "^4.0.0"
@@ -1161,7 +1162,7 @@ safe-buffer@~5.2.0, safe-buffer@5.2.1:
   resolved "https://registry.npmjs.org/safer-buffer/-/safer-buffer-2.1.2.tgz"
   integrity sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==
 
-semver@^7.5.3:
+semver@^7.5.3, semver@^7.6.0:
   version "7.6.0"
   resolved "https://registry.npmjs.org/semver/-/semver-7.6.0.tgz"
   integrity sha512-EnwXhrlwXMk9gKu5/flx5sv/an57AkRplG3hTK68W7FRDN+k+OWBj65M7719OkA82XLBxrcX0KSHj+X5COhOVg==
