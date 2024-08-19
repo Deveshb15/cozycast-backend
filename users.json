@@ -1,0 +1,2776 @@
+{
+  "0xee3ca4dd4ceb3416915eddc6cdadb4a6060434d4": [
+    {
+      "object": "user",
+      "fid": 189069,
+      "custody_address": "0xee3ca4dd4ceb3416915eddc6cdadb4a6060434d4",
+      "username": "lootbot",
+      "display_name": "LootBot",
+      "pfp_url": "https://i.imgur.com/aXi8k2k.png",
+      "profile": {
+        "bio": {
+          "text": "My name is mud!"
+        }
+      },
+      "follower_count": 7,
+      "following_count": 0,
+      "verifications": [],
+      "verified_addresses": {
+        "eth_addresses": [],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    },
+    {
+      "object": "user",
+      "fid": 7061,
+      "custody_address": "0xa6ebe94950ac576c31d0e79bfabd221865f734ac",
+      "username": "liang",
+      "display_name": "Liang /degencast SOON ",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e2336234-90f9-4b3d-8e9c-78edc7da8700/original",
+      "profile": {
+        "bio": {
+          "text": "building degencast.xyz /degencast . ex-bitmain, binance\nu3.xyz/u/qiaoliang.eth\n"
+        }
+      },
+      "follower_count": 64284,
+      "following_count": 3363,
+      "verifications": [
+        "0xee3ca4dd4ceb3416915eddc6cdadb4a6060434d4"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xee3ca4dd4ceb3416915eddc6cdadb4a6060434d4"
+        ],
+        "sol_addresses": [
+          "FLUz2zvSod2ZqfBD2o2TG36LadVuLtUNqSo3dVQw9Eem"
+        ]
+      },
+      "active_status": "inactive",
+      "power_badge": true
+    }
+  ],
+  "0x925afeb19355e289ed1346ede709633ca8788b25": [
+    {
+      "object": "user",
+      "fid": 129,
+      "custody_address": "0xf6fd7deec77d7b1061435585df1d7fdfd4682577",
+      "username": "phil",
+      "display_name": "phil",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ed5f4ac3-36ce-44e2-df81-0516b60b0600/original",
+      "profile": {
+        "bio": {
+          "text": "Building /bright-moments - minting onchain art IRL | /purple #15 | FID 129 #magikarp"
+        }
+      },
+      "follower_count": 422914,
+      "following_count": 1879,
+      "verifications": [
+        "0x18b7511938fbe2ee08adf3d4a24edb00a5c9b783",
+        "0x925afeb19355e289ed1346ede709633ca8788b25"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x18b7511938fbe2ee08adf3d4a24edb00a5c9b783",
+          "0x925afeb19355e289ed1346ede709633ca8788b25"
+        ],
+        "sol_addresses": [
+          "6ZzuHMQ2pJtjfqLaWr4p1YmYrxWmkt4mqiGKNTUSYfTB"
+        ]
+      },
+      "active_status": "inactive",
+      "power_badge": true
+    }
+  ],
+  "0xe24be815d490264a641951d39e8bb0742116df7b": [
+    {
+      "object": "user",
+      "fid": 249841,
+      "custody_address": "0x3b5927c8fddd9f0097dda4861fc26d54fbeb17cc",
+      "username": "shamim066",
+      "display_name": "Shamim.eth 🎩 🔵",
+      "pfp_url": "https://i.imgur.com/OvT1xwp.jpg",
+      "profile": {
+        "bio": {
+          "text": "Solidity Developer. Building Ethereum. Pudgy Penguins 💎🐧 https://x.com/shamim066"
+        }
+      },
+      "follower_count": 1869,
+      "following_count": 185,
+      "verifications": [
+        "0xe24be815d490264a641951d39e8bb0742116df7b"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xe24be815d490264a641951d39e8bb0742116df7b"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0xe42612119acb19c8c9773e79e3530203b6c5f109": [
+    {
+      "object": "user",
+      "fid": 226046,
+      "custody_address": "0xe42612119acb19c8c9773e79e3530203b6c5f109",
+      "username": "!226046",
+      "display_name": null,
+      "pfp_url": null,
+      "profile": {
+        "bio": {
+          "text": ""
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [],
+      "verified_addresses": {
+        "eth_addresses": [],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    },
+    {
+      "object": "user",
+      "fid": 255518,
+      "custody_address": "0xb974d16bc1121f8b7d8d7e226c14b318c5f34460",
+      "username": "sandyftw",
+      "display_name": "Sandy",
+      "pfp_url": "https://i.imgur.com/uGuorI4.jpg",
+      "profile": {
+        "bio": {
+          "text": "Memes and stuff...!!!"
+        }
+      },
+      "follower_count": 136,
+      "following_count": 146,
+      "verifications": [
+        "0xe42612119acb19c8c9773e79e3530203b6c5f109",
+        "0xe42612119acb19c8c9773e79e3530203b6c5f109"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xe42612119acb19c8c9773e79e3530203b6c5f109",
+          "0xe42612119acb19c8c9773e79e3530203b6c5f109"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x50e13edfb4fabcaa67e5bd8b1a2ba718fb7b5956": [
+    {
+      "object": "user",
+      "fid": 3048,
+      "custody_address": "0xcb3d0eb9ef43babb0b06a5000d2114be5416d54a",
+      "username": "rasel",
+      "display_name": "Rasel🕳️🎩",
+      "pfp_url": "https://i.imgur.com/7y6eqcM.jpg",
+      "profile": {
+        "bio": {
+          "text": "ᴼᴳ°F͠id-3048࿐ | Web3 Surfer | Crypto Enthusiast | Trader | NFT Collectors."
+        }
+      },
+      "follower_count": 1237,
+      "following_count": 617,
+      "verifications": [
+        "0x50e13edfb4fabcaa67e5bd8b1a2ba718fb7b5956",
+        "0xecd146720919258be250531e9ed51fb731f86daf"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x50e13edfb4fabcaa67e5bd8b1a2ba718fb7b5956",
+          "0xecd146720919258be250531e9ed51fb731f86daf"
+        ],
+        "sol_addresses": [
+          "7p3pBDTULXLmwWSpdAybqYvDBtZtoLsWyF7SviL12p85"
+        ]
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0xd3e401814d1faa8ca0419ecccbfee93ac7b15b31": [
+    {
+      "object": "user",
+      "fid": 4372,
+      "custody_address": "0xd346b1d17c21d3943b5ed22f0b3f7d72b60120d7",
+      "username": "komorebi88",
+      "display_name": "Komorebi88",
+      "pfp_url": "https://i.imgur.com/9QbiASi.jpg",
+      "profile": {
+        "bio": {
+          "text": "Founder of AW House (Public good ecosystem for Autonomous Worlds) aw.house, Komorebi's hacker house | Chef at @baratie"
+        }
+      },
+      "follower_count": 980,
+      "following_count": 592,
+      "verifications": [
+        "0xd3e401814d1faa8ca0419ecccbfee93ac7b15b31",
+        "0x1a4370fdd7173d0a41ff7c63a8e0249479ba0225",
+        "0x78b31308d672cfd7b4a54b33fa51497ec76e720f",
+        "0xac83136532e1333460d8d173a580970dac114c01",
+        "0xfeae0bb6e45e549a3618d80840530e5e066649c4"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xd3e401814d1faa8ca0419ecccbfee93ac7b15b31",
+          "0x1a4370fdd7173d0a41ff7c63a8e0249479ba0225",
+          "0x78b31308d672cfd7b4a54b33fa51497ec76e720f",
+          "0xac83136532e1333460d8d173a580970dac114c01",
+          "0xfeae0bb6e45e549a3618d80840530e5e066649c4"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0xf27c10488b579e5bcd6ec8cc2922315c2d799c6f": [
+    {
+      "object": "user",
+      "fid": 243318,
+      "custody_address": "0xf27c10488b579e5bcd6ec8cc2922315c2d799c6f",
+      "username": "!243318",
+      "display_name": null,
+      "pfp_url": null,
+      "profile": {
+        "bio": {
+          "text": ""
+        }
+      },
+      "follower_count": 1,
+      "following_count": 0,
+      "verifications": [],
+      "verified_addresses": {
+        "eth_addresses": [],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    },
+    {
+      "object": "user",
+      "fid": 234462,
+      "custody_address": "0x2c39d793a027ebdc728d6713e056a560db0f0611",
+      "username": "sonha",
+      "display_name": "sonha.eth",
+      "pfp_url": "https://res.cloudinary.com/merkle-manufactory/image/fetch/c_fill,f_gif,w_112,h_112/https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8b646b9f-1fcf-4272-f416-ee551644dc00/original",
+      "profile": {
+        "bio": {
+          "text": "Researcher/ NFT Colletor"
+        }
+      },
+      "follower_count": 227,
+      "following_count": 317,
+      "verifications": [
+        "0xf27c10488b579e5bcd6ec8cc2922315c2d799c6f"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xf27c10488b579e5bcd6ec8cc2922315c2d799c6f"
+        ],
+        "sol_addresses": [
+          "48PBTb1VJDNPg3FeopxC4aiBYjxZJDcvR1GJf4BVugoS"
+        ]
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x0cc0fdfa2a9edfc89087e405a4d4b6120ea686fb": [
+    {
+      "object": "user",
+      "fid": 328899,
+      "custody_address": "0xcbaaa658499b6abc210fa1edd63628e84b9371b9",
+      "username": "lifepeace",
+      "display_name": "Chandan",
+      "pfp_url": "https://i.imgur.com/rCfa4zK.jpg",
+      "profile": {
+        "bio": {
+          "text": "Vegan. love to work on veganism n help animal from cruelty"
+        }
+      },
+      "follower_count": 117,
+      "following_count": 183,
+      "verifications": [
+        "0x0cc0fdfa2a9edfc89087e405a4d4b6120ea686fb"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x0cc0fdfa2a9edfc89087e405a4d4b6120ea686fb"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x4d477f1aabcfc2fc3fc9b802e861c013e0123ad9": [
+    {
+      "object": "user",
+      "fid": 284628,
+      "custody_address": "0xde60b4c5a2294c2798a709bd7487bbab5b5a3171",
+      "username": "wzrdcat.eth",
+      "display_name": "wzrdcat",
+      "pfp_url": "https://i.imgur.com/fbf5GST.jpg",
+      "profile": {
+        "bio": {
+          "text": "https://deca.art/0x00"
+        }
+      },
+      "follower_count": 24,
+      "following_count": 88,
+      "verifications": [
+        "0x4d477f1aabcfc2fc3fc9b802e861c013e0123ad9"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x4d477f1aabcfc2fc3fc9b802e861c013e0123ad9"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    },
+    {
+      "object": "user",
+      "fid": 21327,
+      "custody_address": "0x4d477f1aabcfc2fc3fc9b802e861c013e0123ad9",
+      "username": "0x00eth",
+      "display_name": "0x0000",
+      "pfp_url": "https://i.imgur.com/ItA4oqn.png",
+      "profile": {
+        "bio": {
+          "text": "https://deca.art/0x00"
+        }
+      },
+      "follower_count": 17,
+      "following_count": 21,
+      "verifications": [],
+      "verified_addresses": {
+        "eth_addresses": [],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x0c542670f1af3518fd03c5f1b916cd21a2c92961": [
+    {
+      "object": "user",
+      "fid": 333599,
+      "custody_address": "0x001a116fac432c56cea5210541d27d8ce5640389",
+      "username": "isteve.eth",
+      "display_name": "iStΞvΞ 🎩",
+      "pfp_url": "https://i.imgur.com/oJVqcP5.jpg",
+      "profile": {
+        "bio": {
+          "text": "HODL💎🙌🏼 ⟠ ΞTH 👉🏼To the 🚀🌕 web3.0"
+        }
+      },
+      "follower_count": 69,
+      "following_count": 175,
+      "verifications": [
+        "0x0c542670f1af3518fd03c5f1b916cd21a2c92961"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x0c542670f1af3518fd03c5f1b916cd21a2c92961"
+        ],
+        "sol_addresses": [
+          "Htd6bcE19cMxie8JEYYtZ4pxAx3LTGNud793nFRWWrUw"
+        ]
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0xd8d9c310581c0275aad171169c6077c91277dbd9": [
+    {
+      "object": "user",
+      "fid": 243815,
+      "custody_address": "0x167ea06d72faadc226204e826465073fab71c912",
+      "username": "22cmdeamor",
+      "display_name": "22cmdeamor🎩",
+      "pfp_url": "https://i.imgur.com/8KN7Gjl.jpg",
+      "profile": {
+        "bio": {
+          "text": " from degen to legend \n\nhttps://twitter.com/22cmdeamorrr"
+        }
+      },
+      "follower_count": 806,
+      "following_count": 338,
+      "verifications": [
+        "0xd8d9c310581c0275aad171169c6077c91277dbd9"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xd8d9c310581c0275aad171169c6077c91277dbd9"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x2f2f665974261c4129b1dc6c359bd259cd66f78a": [
+    {
+      "object": "user",
+      "fid": 16874,
+      "custody_address": "0xd92cc246393728de3f5c17231a419b464d8aba58",
+      "username": "0htjit",
+      "display_name": "0htjit",
+      "pfp_url": "https://i.imgur.com/BURPPl9.png",
+      "profile": {
+        "bio": {
+          "text": "Just person who interested with web3"
+        }
+      },
+      "follower_count": 1051,
+      "following_count": 648,
+      "verifications": [
+        "0x2f2f665974261c4129b1dc6c359bd259cd66f78a"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x2f2f665974261c4129b1dc6c359bd259cd66f78a"
+        ],
+        "sol_addresses": [
+          "FGhpVj4yaJtiGeMY2X2iNeBSisA7WBEUjPdVXgVqcGQ8"
+        ]
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x98a7b0a637c3b76b57f9592b75eb33cbcc2ff96b": [
+    {
+      "object": "user",
+      "fid": 291529,
+      "custody_address": "0xf1abf81fc85112304fefafc568dacc26ac8ca362",
+      "username": "fishker.eth",
+      "display_name": "Fish Valentine",
+      "pfp_url": "https://everai-collection-v0.s3.us-west-2.amazonaws.com/collection-1648253349/996e7b99-4c83-48e5-9bc9-ebac9221c1ea.jpg",
+      "profile": {
+        "bio": {
+          "text": "Hey guy we will rich together 🤑🤑🤑"
+        }
+      },
+      "follower_count": 1278,
+      "following_count": 1140,
+      "verifications": [
+        "0x98a7b0a637c3b76b57f9592b75eb33cbcc2ff96b"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x98a7b0a637c3b76b57f9592b75eb33cbcc2ff96b"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    },
+    {
+      "object": "user",
+      "fid": 313044,
+      "custody_address": "0x98a7b0a637c3b76b57f9592b75eb33cbcc2ff96b",
+      "username": "!313044",
+      "display_name": null,
+      "pfp_url": null,
+      "profile": {
+        "bio": {
+          "text": ""
+        }
+      },
+      "follower_count": 2,
+      "following_count": 0,
+      "verifications": [],
+      "verified_addresses": {
+        "eth_addresses": [],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x235c58a9ff01c10c9e2fb10361e592f84912ee1b": [
+    {
+      "object": "user",
+      "fid": 418471,
+      "custody_address": "0x235c58a9ff01c10c9e2fb10361e592f84912ee1b",
+      "username": "!418471",
+      "display_name": "Alnitak34",
+      "pfp_url": "https://far.quest/DEFAULT_AVATAR.jpg",
+      "profile": {
+        "bio": {
+          "text": ""
+        }
+      },
+      "follower_count": 1,
+      "following_count": 5,
+      "verifications": [],
+      "verified_addresses": {
+        "eth_addresses": [],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    },
+    {
+      "object": "user",
+      "fid": 243040,
+      "custody_address": "0x4c0a7eb5dc5376c510dfe0a03a36b0cab2c8dbb5",
+      "username": "alnitak34",
+      "display_name": "Alnitak34 🎩",
+      "pfp_url": "https://beb-public.s3.us-west-1.amazonaws.com/purple.jpg",
+      "profile": {
+        "bio": {
+          "text": "Crypto research/enthusiasts web3. \nCypherpunk 🦾"
+        }
+      },
+      "follower_count": 665,
+      "following_count": 1138,
+      "verifications": [
+        "0x235c58a9ff01c10c9e2fb10361e592f84912ee1b",
+        "0xc43d1055f2db7e108faf2c3b8fa3347df7c55cf8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x235c58a9ff01c10c9e2fb10361e592f84912ee1b",
+          "0xc43d1055f2db7e108faf2c3b8fa3347df7c55cf8"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x8143aad694567424162a949c1580c91d03437858": [
+    {
+      "object": "user",
+      "fid": 4368,
+      "custody_address": "0x062f6920650c260704f7cfaed32a5047c37f7280",
+      "username": "amado",
+      "display_name": "Alex",
+      "pfp_url": "https://i.imgur.com/UE6a27t.jpg",
+      "profile": {
+        "bio": {
+          "text": "I’m Alex or the ‘$degen cookie guy’. Early-ish to Farcaster and interested in meeting others who share a community oriented mindset! Building /surfcast /analog\n"
+        }
+      },
+      "follower_count": 3323,
+      "following_count": 871,
+      "verifications": [
+        "0x8143aad694567424162a949c1580c91d03437858"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x8143aad694567424162a949c1580c91d03437858"
+        ],
+        "sol_addresses": [
+          "4JPv678pufcF71FUXvgK1UMK5xdPzm8fgQgFKozUopo3"
+        ]
+      },
+      "active_status": "inactive",
+      "power_badge": true
+    }
+  ],
+  "0x8f3472b06a1cd2fc40e1d89f24484408107c2e7d": [
+    {
+      "object": "user",
+      "fid": 680391,
+      "custody_address": "0x9baa418f25132896b15af3bae5729482bc73b4fb",
+      "username": "lordmzn",
+      "display_name": "Farhad Mazinani",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/561c436a-0298-4017-1de4-695fbdeac400/rectcrop3",
+      "profile": {
+        "bio": {
+          "text": "Crypto enthusiasm since 2019"
+        }
+      },
+      "follower_count": 6,
+      "following_count": 70,
+      "verifications": [
+        "0x8f3472b06a1cd2fc40e1d89f24484408107c2e7d"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x8f3472b06a1cd2fc40e1d89f24484408107c2e7d"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    },
+    {
+      "object": "user",
+      "fid": 534393,
+      "custody_address": "0x8f3472b06a1cd2fc40e1d89f24484408107c2e7d",
+      "username": "!534393",
+      "display_name": null,
+      "pfp_url": null,
+      "profile": {
+        "bio": {
+          "text": ""
+        }
+      },
+      "follower_count": 1,
+      "following_count": 0,
+      "verifications": [],
+      "verified_addresses": {
+        "eth_addresses": [],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0xceed9585854f12f81a0103861b83b995a64ad915": [
+    {
+      "object": "user",
+      "fid": 4167,
+      "custody_address": "0xbb54a63ad8241710eba3a98af224080b611ff8e9",
+      "username": "nounishprof",
+      "display_name": "Nounish Prof ⌐◧-◧🎩",
+      "pfp_url": "https://i.imgur.com/fXhGSf4.jpg",
+      "profile": {
+        "bio": {
+          "text": "building /gmfarcaster, network\nblockchain ENT prof, Nouncillor, Noun 912 ⌐◧-◧, BuilderDAO community resident /builder,\n\nhttps://www.gmfarcaster.com/ "
+        }
+      },
+      "follower_count": 63334,
+      "following_count": 2589,
+      "verifications": [
+        "0xceed9585854f12f81a0103861b83b995a64ad915"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xceed9585854f12f81a0103861b83b995a64ad915"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": true
+    }
+  ],
+  "0xb13a55d8512aec4bf7b15067d733c4c3c68f2439": [
+    {
+      "object": "user",
+      "fid": 4840,
+      "custody_address": "0x4617efbf644e5f095e5e0a624a63e7d807ccab73",
+      "username": "mikep",
+      "display_name": "MikeP 🎩 🎭",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d7d6ed26-c41c-4e41-174c-744d5775ac00/original",
+      "profile": {
+        "bio": {
+          "text": "I am passionate and enthusiastic about blockchain technology, DEFI and Web3. CryptoTester🔭"
+        }
+      },
+      "follower_count": 954,
+      "following_count": 1735,
+      "verifications": [
+        "0xb13a55d8512aec4bf7b15067d733c4c3c68f2439"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb13a55d8512aec4bf7b15067d733c4c3c68f2439"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0xc7b2e791ee0491c8df611d5ccfd87b17a0cb9897": [
+    {
+      "object": "user",
+      "fid": 193425,
+      "custody_address": "0x28e8fc2cce01b087be330201b0e77eb31a1c7116",
+      "username": "lammz",
+      "display_name": "Lammz 🧀🐹🍖",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7907905a-713a-4f42-b861-d1865dc32800/rectcrop3",
+      "profile": {
+        "bio": {
+          "text": "😺"
+        }
+      },
+      "follower_count": 1277,
+      "following_count": 1146,
+      "verifications": [
+        "0xc7b2e791ee0491c8df611d5ccfd87b17a0cb9897"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xc7b2e791ee0491c8df611d5ccfd87b17a0cb9897"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0xc3048079040c993818021e955b62102094cd4d03": [
+    {
+      "object": "user",
+      "fid": 1236,
+      "custody_address": "0xf6f2e4f1bd29f6a94a4f205bb5f7cd9a3405ca14",
+      "username": "syed",
+      "display_name": "Syed Shah🏴‍☠️🌊",
+      "pfp_url": "https://i.imgur.com/miOebWM.gif",
+      "profile": {
+        "bio": {
+          "text": "c/acc - 🏴‍☠️🌊 Bring me that Horizon 🍹\nGold League of Legends player\n\nhttp://icebreaker.xyz/syed.fc"
+        }
+      },
+      "follower_count": 95370,
+      "following_count": 858,
+      "verifications": [
+        "0xc3048079040c993818021e955b62102094cd4d03"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xc3048079040c993818021e955b62102094cd4d03"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": true
+    }
+  ],
+  "0xa3268edfd84415472d9c30ecdeba487f865ee063": [
+    {
+      "object": "user",
+      "fid": 14815,
+      "custody_address": "0x5b4282e57501189ad2b8fb9f1ffa660239cfb10a",
+      "username": "overcute.eth",
+      "display_name": "Dewi Yuliana 🎩",
+      "pfp_url": "https://i.imgur.com/hgCAStm.jpg",
+      "profile": {
+        "bio": {
+          "text": "I Love Music, Meme, Anime, And Love You\n\n\nhttps://link3.to/dewiovercute\n\n"
+        }
+      },
+      "follower_count": 657,
+      "following_count": 393,
+      "verifications": [
+        "0xa3268edfd84415472d9c30ecdeba487f865ee063"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xa3268edfd84415472d9c30ecdeba487f865ee063"
+        ],
+        "sol_addresses": [
+          "2UsoV4bDYABLGLKJHND8TPx8sFNfZGTdQTmCFQNso9ff"
+        ]
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0xe7657ab31a15a0a2e024ba12ab85967fec4253bc": [
+    {
+      "object": "user",
+      "fid": 311,
+      "custody_address": "0x44f10f4fe7a3649912d13670689157dc0cb20b5a",
+      "username": "bgrill.eth",
+      "display_name": "bennet",
+      "pfp_url": "https://i.imgur.com/xFy5iml.jpg",
+      "profile": {
+        "bio": {
+          "text": "🟪 tribeca citizen nf.td/bgrill"
+        }
+      },
+      "follower_count": 46138,
+      "following_count": 494,
+      "verifications": [
+        "0xe7657ab31a15a0a2e024ba12ab85967fec4253bc"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xe7657ab31a15a0a2e024ba12ab85967fec4253bc"
+        ],
+        "sol_addresses": [
+          "BbVoXvKvqPVB9XGL3xd9aCZfGf1Wtz8kGVT4Q71hvJkh"
+        ]
+      },
+      "active_status": "inactive",
+      "power_badge": true
+    }
+  ],
+  "0x88593107342e073fdb8c54aab81933942f1c0bed": [
+    {
+      "object": "user",
+      "fid": 237896,
+      "custody_address": "0x3b9230083b6cec91cbc10d02e37dbeb1fba1cf3d",
+      "username": "desiato",
+      "display_name": "Hotblack Desiato",
+      "pfp_url": "https://i.imgur.com/Lk4Dp9r.jpg",
+      "profile": {
+        "bio": {
+          "text": "Frontman @ Desaster Area"
+        }
+      },
+      "follower_count": 23,
+      "following_count": 21,
+      "verifications": [
+        "0x88593107342e073fdb8c54aab81933942f1c0bed"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x88593107342e073fdb8c54aab81933942f1c0bed"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x6a060a96b602f7cffa414b91ba5644109abf65ba": [
+    {
+      "object": "user",
+      "fid": 376227,
+      "custody_address": "0xef44c08cb10822010cbc6d8553014114e16b9a43",
+      "username": "antok",
+      "display_name": "Antek Skapski",
+      "pfp_url": "https://i.imgur.com/y2audEc.jpg",
+      "profile": {
+        "bio": {
+          "text": "Product designer at @frameboard @launch"
+        }
+      },
+      "follower_count": 80,
+      "following_count": 149,
+      "verifications": [
+        "0x6a060a96b602f7cffa414b91ba5644109abf65ba"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x6a060a96b602f7cffa414b91ba5644109abf65ba"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x4cd572249bd7683f44e39150aa480d54bb28b271": [
+    {
+      "object": "user",
+      "fid": 245226,
+      "custody_address": "0x136e3f02e15b238cc3eeb53b5ce69b658bfc80af",
+      "username": "syntropystoic",
+      "display_name": "SyntropyStoic",
+      "pfp_url": "https://i.imgur.com/ABLQCal.png",
+      "profile": {
+        "bio": {
+          "text": "Syntropy and stoic"
+        }
+      },
+      "follower_count": 522,
+      "following_count": 511,
+      "verifications": [
+        "0x4cd572249bd7683f44e39150aa480d54bb28b271"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x4cd572249bd7683f44e39150aa480d54bb28b271"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x59659e3270e7e143f8f1bba1af3d237d8c9f9354": [
+    {
+      "object": "user",
+      "fid": 7561,
+      "custody_address": "0xc8bcc9ff184343548e1b6ee918960655b3fb18f4",
+      "username": "zerocross",
+      "display_name": "『 ancha.eth 』",
+      "pfp_url": "https://i.imgur.com/8iBmhoO.jpg",
+      "profile": {
+        "bio": {
+          "text": "\n“It's not who I am underneath, but what I do that defines me.” – Batman ♢"
+        }
+      },
+      "follower_count": 460,
+      "following_count": 731,
+      "verifications": [
+        "0x59659e3270e7e143f8f1bba1af3d237d8c9f9354"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x59659e3270e7e143f8f1bba1af3d237d8c9f9354"
+        ],
+        "sol_addresses": [
+          "BVCB5fwFw8omUbZWcSnV7HtpRijvqB64KZsDZaVhoq4F"
+        ]
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0xdc4471ee9dfca619ac5465fde7cf2634253a9dc6": [
+    {
+      "object": "user",
+      "fid": 4204,
+      "custody_address": "0xecbfa0c618869e563db5d49501ce5dc4ec8d4a77",
+      "username": "c0rv0s",
+      "display_name": "Nate",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c08f05e5-1d58-441e-bd86-87a8c6b19000/original",
+      "profile": {
+        "bio": {
+          "text": "onchain money clubs @madfiprotocol // $bonsai summoner 🌳"
+        }
+      },
+      "follower_count": 236,
+      "following_count": 228,
+      "verifications": [
+        "0xdc4471ee9dfca619ac5465fde7cf2634253a9dc6"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xdc4471ee9dfca619ac5465fde7cf2634253a9dc6"
+        ],
+        "sol_addresses": [
+          "6RqcwUc7WGAKkYMRQnmaV7VzSQBr7FtnRhG4CQchbmmX"
+        ]
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x3496cc53d6d8650ec936891038e656a85475126b": [
+    {
+      "object": "user",
+      "fid": 18616,
+      "custody_address": "0x1e48c15b656f94eaeaae34e7ad4343847eb1d2d6",
+      "username": "72",
+      "display_name": "DJMansorOnTheMix",
+      "pfp_url": "https://i.imgur.com/rj1zbtV.jpg",
+      "profile": {
+        "bio": {
+          "text": "Crypto Analyst & Blockchain Research"
+        }
+      },
+      "follower_count": 138,
+      "following_count": 116,
+      "verifications": [
+        "0x3496cc53d6d8650ec936891038e656a85475126b"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x3496cc53d6d8650ec936891038e656a85475126b"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x35fa655175acd114f92bb9aebf968c965d2aae78": [
+    {
+      "object": "user",
+      "fid": 21673,
+      "custody_address": "0x35fa655175acd114f92bb9aebf968c965d2aae78",
+      "username": "!21673",
+      "display_name": null,
+      "pfp_url": null,
+      "profile": {
+        "bio": {
+          "text": ""
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [],
+      "verified_addresses": {
+        "eth_addresses": [],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0xc62cddc27ae3a5719d15e164d7d3fe5f257f2617": [
+    {
+      "object": "user",
+      "fid": 9802,
+      "custody_address": "0xf5f23d337785825859de51f0bb36550ea7f4aec2",
+      "username": "outricked",
+      "display_name": "RecklessPickle",
+      "pfp_url": "https://i.seadn.io/gcs/files/8b5f7e2d8e1bc4d1561a708117d2a707.png?w=500&auto=format",
+      "profile": {
+        "bio": {
+          "text": "4/4 would kill beets again"
+        }
+      },
+      "follower_count": 426,
+      "following_count": 215,
+      "verifications": [
+        "0xc62cddc27ae3a5719d15e164d7d3fe5f257f2617"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xc62cddc27ae3a5719d15e164d7d3fe5f257f2617"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x4ac4ec3fa79585de9487561e1ff9aa76ae1a009b": [
+    {
+      "object": "user",
+      "fid": 6142,
+      "custody_address": "0xe42c855d75c6cfc9cb8a1f6367de508990963ea8",
+      "username": "trav",
+      "display_name": "trav 🎩🔵🧾",
+      "pfp_url": "https://i.imgur.com/4sDLQmH.jpg",
+      "profile": {
+        "bio": {
+          "text": "I dream about tokens. I like musical chairs."
+        }
+      },
+      "follower_count": 1407,
+      "following_count": 576,
+      "verifications": [
+        "0x4ac4ec3fa79585de9487561e1ff9aa76ae1a009b"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x4ac4ec3fa79585de9487561e1ff9aa76ae1a009b"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x182669aa899dfbc6e7fb143083dc284b1b6e27e2": [
+    {
+      "object": "user",
+      "fid": 3314,
+      "custody_address": "0x758f5e68beb070e426cdb1db9ef7642ed3966a95",
+      "username": "msevera",
+      "display_name": "Mike Severa",
+      "pfp_url": "https://i.imgur.com/PDlqtzo.png",
+      "profile": {
+        "bio": {
+          "text": "Building launchcaster.xyz, frameboard.com"
+        }
+      },
+      "follower_count": 243,
+      "following_count": 9,
+      "verifications": [
+        "0x182669aa899dfbc6e7fb143083dc284b1b6e27e2"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x182669aa899dfbc6e7fb143083dc284b1b6e27e2"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0xf34196597df209a04fc92b97071dcaabbc63f0e8": [
+    {
+      "object": "user",
+      "fid": 6804,
+      "custody_address": "0x38eaa03bd222ba7e616ff2d14f2c499df3ef3214",
+      "username": "g3rard.eth",
+      "display_name": "g ",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/40cc77ce-0acf-451a-43b1-92a3d3da2400/original",
+      "profile": {
+        "bio": {
+          "text": "family dude & toucher of grass 🌄\nlearning to build. elevate others. enjoyoor of OG FC moments./purple 🟣#127. base64.tech \n "
+        }
+      },
+      "follower_count": 2871,
+      "following_count": 1297,
+      "verifications": [
+        "0xf34196597df209a04fc92b97071dcaabbc63f0e8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xf34196597df209a04fc92b97071dcaabbc63f0e8"
+        ],
+        "sol_addresses": [
+          "2RMiEQczAs7wNZ4uURtg5ZsidSckGP8UMURKvwVZhLoF"
+        ]
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0xd7029bdea1c17493893aafe29aad69ef892b8ff2": [
+    {
+      "object": "user",
+      "fid": 188133,
+      "custody_address": "0xd7029bdea1c17493893aafe29aad69ef892b8ff2",
+      "username": "!188133",
+      "display_name": null,
+      "pfp_url": null,
+      "profile": {
+        "bio": {
+          "text": ""
+        }
+      },
+      "follower_count": 2,
+      "following_count": 0,
+      "verifications": [],
+      "verified_addresses": {
+        "eth_addresses": [],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    },
+    {
+      "object": "user",
+      "fid": 3,
+      "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1",
+      "username": "dwr.eth",
+      "display_name": "Dan Romero",
+      "pfp_url": "https://res.cloudinary.com/merkle-manufactory/image/fetch/c_fill,f_png,w_256/https://lh3.googleusercontent.com/MyUBL0xHzMeBu7DXQAqv0bM9y6s4i4qjnhcXz5fxZKS3gwWgtamxxmxzCJX7m2cuYeGalyseCA2Y6OBKDMR06TWg2uwknnhdkDA1AA",
+      "profile": {
+        "bio": {
+          "text": "Working on Farcaster and Warpcast."
+        }
+      },
+      "follower_count": 475558,
+      "following_count": 3375,
+      "verifications": [
+        "0xd7029bdea1c17493893aafe29aad69ef892b8ff2"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xd7029bdea1c17493893aafe29aad69ef892b8ff2"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": true
+    }
+  ],
+  "0xd923de646d3f0bb9eb7f9169f259c79c3ede2188": [
+    {
+      "object": "user",
+      "fid": 187881,
+      "custody_address": "0x73181b4fd51b0653619a4adb36910f35f26daa69",
+      "username": "nop99",
+      "display_name": "Noppadone",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5f9eff7e-d9cd-455f-278d-a5643ab65900/original",
+      "profile": {
+        "bio": {
+          "text": "CryptoAdventure"
+        }
+      },
+      "follower_count": 1885,
+      "following_count": 2158,
+      "verifications": [
+        "0xd923de646d3f0bb9eb7f9169f259c79c3ede2188"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xd923de646d3f0bb9eb7f9169f259c79c3ede2188"
+        ],
+        "sol_addresses": [
+          "8gS66VkvRRZ3Ta6T7uZXUmmTe9y6DABxiU1C4pfuSf4Y"
+        ]
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0xe41f56122d44f63c4492096d54d8be96d600bb06": [
+    {
+      "object": "user",
+      "fid": 5644,
+      "custody_address": "0x9b128f751e4d27085fce723914967c530b1da44d",
+      "username": "ebeezy.eth",
+      "display_name": "ebeezy",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b0f0e260-072c-4e9f-8e9e-8ffd2b5dc200/rectcrop3",
+      "profile": {
+        "bio": {
+          "text": "🛝 @playground • FID #5644"
+        }
+      },
+      "follower_count": 2796,
+      "following_count": 947,
+      "verifications": [
+        "0xe41f56122d44f63c4492096d54d8be96d600bb06"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xe41f56122d44f63c4492096d54d8be96d600bb06"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0xe876275e5e1a77e0de4006e5d9b85b33621d1442": [
+    {
+      "object": "user",
+      "fid": 8438,
+      "custody_address": "0x84be5d48faf11041cde2eeed7384d29e9221c2b7",
+      "username": "toasterboyz.eth",
+      "display_name": "Toasterboyz",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2643e1b9-6994-45e5-87a3-f13d23c35300/original",
+      "profile": {
+        "bio": {
+          "text": "Generic user of protocols."
+        }
+      },
+      "follower_count": 4562,
+      "following_count": 918,
+      "verifications": [
+        "0xe876275e5e1a77e0de4006e5d9b85b33621d1442"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xe876275e5e1a77e0de4006e5d9b85b33621d1442"
+        ],
+        "sol_addresses": [
+          "WCRifT2gnBfmLjWZKUydf6LRQymL4j3awC43jh6rVzq"
+        ]
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0xb8ac952dcdfd1e77222213ae508ad8864dc391b4": [
+    {
+      "object": "user",
+      "fid": 7408,
+      "custody_address": "0x8364089ef4452ea75b14b1a0094bb04320b30400",
+      "username": "emush",
+      "display_name": "emush🎩",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/69a9a54e-977c-4779-3c6b-0ed0621e3b00/rectcrop3",
+      "profile": {
+        "bio": {
+          "text": "/the northern nightmare"
+        }
+      },
+      "follower_count": 3319,
+      "following_count": 1396,
+      "verifications": [
+        "0xb8ac952dcdfd1e77222213ae508ad8864dc391b4"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb8ac952dcdfd1e77222213ae508ad8864dc391b4"
+        ],
+        "sol_addresses": [
+          "B29X6ec9yHeFHSNMpdXfcWYScAjKyt2w6yL6bGYbGETM"
+        ]
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x449e41d4c08c6da0f749441d0958bea329a5206d": [
+    {
+      "object": "user",
+      "fid": 244277,
+      "custody_address": "0x2e3b8cceb95bf885b318eda8c1c164627f844501",
+      "username": "vinyo",
+      "display_name": "Vinyad",
+      "pfp_url": "https://i.imgur.com/AtM6rgb.jpg",
+      "profile": {
+        "bio": {
+          "text": "Always early"
+        }
+      },
+      "follower_count": 801,
+      "following_count": 298,
+      "verifications": [
+        "0x449e41d4c08c6da0f749441d0958bea329a5206d"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x449e41d4c08c6da0f749441d0958bea329a5206d"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0xbbba14a63a97d30d4b1e2fd221ee97bb068fad40": [
+    {
+      "object": "user",
+      "fid": 2020,
+      "custody_address": "0x883ee8804108d86e55cbde5cbd9da71e9a69e713",
+      "username": "jun",
+      "display_name": "Jun Gong",
+      "pfp_url": "https://i.imgur.com/QipeXjq.jpg",
+      "profile": {
+        "bio": {
+          "text": "chief cat herder @ furrend.xyz; prev co-founder of dapp.com"
+        }
+      },
+      "follower_count": 449,
+      "following_count": 348,
+      "verifications": [
+        "0xbbba14a63a97d30d4b1e2fd221ee97bb068fad40",
+        "0xbbba14a63a97d30d4b1e2fd221ee97bb068fad40"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbbba14a63a97d30d4b1e2fd221ee97bb068fad40",
+          "0xbbba14a63a97d30d4b1e2fd221ee97bb068fad40"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x4c0f3359a4ef3a4a2bbee138a34777c102e40848": [
+    {
+      "object": "user",
+      "fid": 21479,
+      "custody_address": "0xe87adeb9efa8fc5c710e641e6ddaa9d81ab9d900",
+      "username": "ohsarayut",
+      "display_name": "Ohsarayut 🐹",
+      "pfp_url": "https://i.imgur.com/SZC5oaG.jpg",
+      "profile": {
+        "bio": {
+          "text": "Just fun"
+        }
+      },
+      "follower_count": 1687,
+      "following_count": 1457,
+      "verifications": [
+        "0x4c0f3359a4ef3a4a2bbee138a34777c102e40848"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x4c0f3359a4ef3a4a2bbee138a34777c102e40848"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x56c09caf7a77d5d254dae3438bb843a1ffd06aa2": [
+    {
+      "object": "user",
+      "fid": 6622,
+      "custody_address": "0x18a3ff1de85c860d09705e68dc81e1ce48c3f131",
+      "username": "frdysk.eth",
+      "display_name": "frdysk",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e65be789-5959-48d8-6b42-ee014699b600/rectcrop3",
+      "profile": {
+        "bio": {
+          "text": "what dish tastes like your past? /salty /fufu | seemore.tv/frdysk • https://rc.xyz/frdysk"
+        }
+      },
+      "follower_count": 50271,
+      "following_count": 1667,
+      "verifications": [
+        "0x56c09caf7a77d5d254dae3438bb843a1ffd06aa2",
+        "0x1a022ef3ed5feba4d77e16ccbf79983ec9b76d60"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x56c09caf7a77d5d254dae3438bb843a1ffd06aa2",
+          "0x1a022ef3ed5feba4d77e16ccbf79983ec9b76d60"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": true
+    }
+  ],
+  "0xbeb40eafd717ae1c6ac0414ba1631f46e2777795": [
+    {
+      "object": "user",
+      "fid": 248111,
+      "custody_address": "0x73444b11879471e41cdb7fdc8bfc8f85dfe122d6",
+      "username": "darkoh.eth",
+      "display_name": "Darkoh🍓",
+      "pfp_url": "https://res.cloudinary.com/merkle-manufactory/image/fetch/c_fill,f_gif,w_112,h_112/https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b08cdc60-d2bd-4298-b6ad-e8008667bf00/rectcrop3",
+      "profile": {
+        "bio": {
+          "text": "Based Berry Boi \n"
+        }
+      },
+      "follower_count": 12341,
+      "following_count": 667,
+      "verifications": [
+        "0xbeb40eafd717ae1c6ac0414ba1631f46e2777795",
+        "0xdedcc1ac81a47dac556ab7347b1d4efa061318a8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbeb40eafd717ae1c6ac0414ba1631f46e2777795",
+          "0xdedcc1ac81a47dac556ab7347b1d4efa061318a8"
+        ],
+        "sol_addresses": [
+          "7asDntRHyEkZmZpyArYTvEp7y6PXHXZFkFNmiitozvrL"
+        ]
+      },
+      "active_status": "inactive",
+      "power_badge": true
+    }
+  ],
+  "0x743285e167c7f84eb992af1bcbea7a8b6c579f77": [
+    {
+      "object": "user",
+      "fid": 12111,
+      "custody_address": "0x1ce4817db20c4c7a447076f98e4a7d8f8cccf058",
+      "username": "simonapop",
+      "display_name": "SP",
+      "pfp_url": "https://i.imgur.com/i6w3eN6.png",
+      "profile": {
+        "bio": {
+          "text": "joyfully subverting the status quo 〰️ /therapy host | biomimicry + psycho-socio-economic dynamics aficionado 🧠\nadvisor @optimism | PG steward @ensdomains "
+        }
+      },
+      "follower_count": 1647,
+      "following_count": 319,
+      "verifications": [
+        "0x743285e167c7f84eb992af1bcbea7a8b6c579f77"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x743285e167c7f84eb992af1bcbea7a8b6c579f77"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": true
+    }
+  ],
+  "0x387098dcfcc95a7ceaf82396f83fd821d1173a28": [
+    {
+      "object": "user",
+      "fid": 239931,
+      "custody_address": "0x44b9333e9f62e010c37f9dddba0f38f2c8c79046",
+      "username": "brave0",
+      "display_name": "Brave Zero",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cc3cf559-6ebe-4f77-2c0a-aa6adf46b500/original",
+      "profile": {
+        "bio": {
+          "text": "Web3 enthusiast, chief airdrop hunter."
+        }
+      },
+      "follower_count": 76,
+      "following_count": 61,
+      "verifications": [
+        "0x387098dcfcc95a7ceaf82396f83fd821d1173a28"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x387098dcfcc95a7ceaf82396f83fd821d1173a28"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    },
+    {
+      "object": "user",
+      "fid": 227899,
+      "custody_address": "0x387098dcfcc95a7ceaf82396f83fd821d1173a28",
+      "username": "!227899",
+      "display_name": null,
+      "pfp_url": null,
+      "profile": {
+        "bio": {
+          "text": ""
+        }
+      },
+      "follower_count": 1,
+      "following_count": 0,
+      "verifications": [],
+      "verified_addresses": {
+        "eth_addresses": [],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0xf0c56251ce95e39882cc58f3cc14272771ae2f44": [
+    {
+      "object": "user",
+      "fid": 18034,
+      "custody_address": "0xededaa4a7c917f0debf20b0cc8dbdf4d6c84f2a6",
+      "username": "vonyi",
+      "display_name": "Vonyi🔮🎩",
+      "pfp_url": "https://i.imgur.com/eIlDCq6.jpg",
+      "profile": {
+        "bio": {
+          "text": "yes"
+        }
+      },
+      "follower_count": 927,
+      "following_count": 1225,
+      "verifications": [
+        "0xf0c56251ce95e39882cc58f3cc14272771ae2f44"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xf0c56251ce95e39882cc58f3cc14272771ae2f44"
+        ],
+        "sol_addresses": [
+          "D5hXVucDw5sxj69r384GvnF86bDLXHC1jZ5HhCBR7hbK"
+        ]
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x5881d9bfff787c8655a9b7f3484ae1a6f7a966e8": [
+    {
+      "object": "user",
+      "fid": 5321,
+      "custody_address": "0x0852551d670399529ae9ba548c14dfa5c5525c90",
+      "username": "nftmatrix",
+      "display_name": "nftmatrix",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/06eb6df7-10ca-4b62-2c20-061202291b00/rectcrop3",
+      "profile": {
+        "bio": {
+          "text": "prod mger. art, music, nft reviews\n\nnftmatrix.cent.co"
+        }
+      },
+      "follower_count": 255,
+      "following_count": 629,
+      "verifications": [
+        "0x5881d9bfff787c8655a9b7f3484ae1a6f7a966e8",
+        "0xacad95570031453be812b88da058a074c26e3535"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5881d9bfff787c8655a9b7f3484ae1a6f7a966e8",
+          "0xacad95570031453be812b88da058a074c26e3535"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x333d0ebc54707c0a9d92cac749b3094c28a0e111": [
+    {
+      "object": "user",
+      "fid": 528,
+      "custody_address": "0xb1a1e2d2c56f085c9663ad7f298073cbd3549eef",
+      "username": "0xen",
+      "display_name": "0xen 🎩",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e282ac3b-78b9-43f8-57ef-e32f74d05000/original",
+      "profile": {
+        "bio": {
+          "text": "icebreaker.xyz/0xen |\nhttps://gallery.so/Oxen/galleries | https://opensea.io/collection/farcats"
+        }
+      },
+      "follower_count": 174548,
+      "following_count": 1885,
+      "verifications": [
+        "0x333d0ebc54707c0a9d92cac749b3094c28a0e111"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x333d0ebc54707c0a9d92cac749b3094c28a0e111"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": true
+    }
+  ],
+  "0x0964256674e42d61f0ff84097e28f65311786ccb": [
+    {
+      "object": "user",
+      "fid": 6806,
+      "custody_address": "0xe1b1e3bbf4f29bd7253d6fc1e2ddc9cacb0a546a",
+      "username": "dawufi",
+      "display_name": "dawufi",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/406101e5-2c23-4890-e6c9-26fc2dc03600/original",
+      "profile": {
+        "bio": {
+          "text": "vibe architect for /opacity --\nhost of vibe check podcast \n▶️ https://pods.media/vibe-check\n❄️ icebreaker.xyz/dawufi\n👀 seemore.tv/free/fc/dawufi"
+        }
+      },
+      "follower_count": 63318,
+      "following_count": 2058,
+      "verifications": [
+        "0x0964256674e42d61f0ff84097e28f65311786ccb"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x0964256674e42d61f0ff84097e28f65311786ccb"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": true
+    }
+  ],
+  "0xf9a072f58c903d65927541ba75c3376f363c1fcf": [
+    {
+      "object": "user",
+      "fid": 299477,
+      "custody_address": "0x67cd94911235846512058cc754a7300f53ccf99c",
+      "username": "noomisme",
+      "display_name": "NoomisMe",
+      "pfp_url": "https://i.imgur.com/fZdsMoU.png",
+      "profile": {
+        "bio": {
+          "text": "Love Crypto ❤️"
+        }
+      },
+      "follower_count": 936,
+      "following_count": 1021,
+      "verifications": [
+        "0xf9a072f58c903d65927541ba75c3376f363c1fcf",
+        "0xf9a072f58c903d65927541ba75c3376f363c1fcf"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xf9a072f58c903d65927541ba75c3376f363c1fcf",
+          "0xf9a072f58c903d65927541ba75c3376f363c1fcf"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x35ef983c0d040e2deaefce5245f7193e01a8aaa8": [
+    {
+      "object": "user",
+      "fid": 727677,
+      "custody_address": "0x35ef983c0d040e2deaefce5245f7193e01a8aaa8",
+      "username": "!727677",
+      "display_name": null,
+      "pfp_url": null,
+      "profile": {
+        "bio": {
+          "text": ""
+        }
+      },
+      "follower_count": 0,
+      "following_count": 5,
+      "verifications": [],
+      "verified_addresses": {
+        "eth_addresses": [],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    },
+    {
+      "object": "user",
+      "fid": 192213,
+      "custody_address": "0x8b5eea51ae95ef1d2042ffa5818f3061d53f2313",
+      "username": "pikajoe",
+      "display_name": "PiKaJOe",
+      "pfp_url": "https://i.imgur.com/aiwgEEa.jpg",
+      "profile": {
+        "bio": {
+          "text": "ลุยกันครับ\nTwitter: twitter.com/PiKaJOe_"
+        }
+      },
+      "follower_count": 1102,
+      "following_count": 927,
+      "verifications": [
+        "0x35ef983c0d040e2deaefce5245f7193e01a8aaa8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x35ef983c0d040e2deaefce5245f7193e01a8aaa8"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x07e522bd635710e752343387b006bb7047663d77": [
+    {
+      "object": "user",
+      "fid": 8405,
+      "custody_address": "0x96620eb536f2f468de0a13f4f0503d0a9d54ffb5",
+      "username": "seanwince",
+      "display_name": "Sean Wince 🎩🐹🟢↑",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b85964c0-2fef-4f9b-07b5-b29f66c36f00/original",
+      "profile": {
+        "bio": {
+          "text": "Degen communist | Having fun onchain & finding signal in the noise | web2 sales by day | Cali roots | BTC class of '13 | nf.td/sean"
+        }
+      },
+      "follower_count": 3740,
+      "following_count": 1387,
+      "verifications": [
+        "0xe0cdfbeaa6964cd87055832cb4ee928450189f31",
+        "0x07e522bd635710e752343387b006bb7047663d77",
+        "0xf62f2aa5081e2545cb5acba5839ed998b4e9ac81"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xe0cdfbeaa6964cd87055832cb4ee928450189f31",
+          "0x07e522bd635710e752343387b006bb7047663d77",
+          "0xf62f2aa5081e2545cb5acba5839ed998b4e9ac81"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": true
+    }
+  ],
+  "0x12cba59f5a74db81a12ff63c349bd82cbf6007c2": [
+    {
+      "object": "user",
+      "fid": 5925,
+      "custody_address": "0x38e5009ef2640a4c28898931ee1fae34a888eeeb",
+      "username": "teleyinex.eth",
+      "display_name": "Daniel Lombraña ",
+      "pfp_url": "https://i.imgur.com/uUj91M6.jpg",
+      "profile": {
+        "bio": {
+          "text": "🌷💀⏳\n\nteleyinex.eth ▫️\n\nteleyinex.lens ▫️\n\nteleyine.x ▫️\n\ndaniellombrana.es  ▫️\n\n@astaralabs ▫️\n\n@obeygiant ▫️\n\n@scifabric ▫️\n\ndev"
+        }
+      },
+      "follower_count": 2314,
+      "following_count": 304,
+      "verifications": [
+        "0x12cba59f5a74db81a12ff63c349bd82cbf6007c2",
+        "0xb8bc27e04b5c563c8d534f1834ee9b1b18920142"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x12cba59f5a74db81a12ff63c349bd82cbf6007c2",
+          "0xb8bc27e04b5c563c8d534f1834ee9b1b18920142"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": true
+    }
+  ],
+  "0xb6f6dce6000ca88cc936b450cedb16a5c15f157f": [
+    {
+      "object": "user",
+      "fid": 576,
+      "custody_address": "0x332e19a3801738fe7bffe22198b40dcd29afd090",
+      "username": "nonlinear.eth",
+      "display_name": "Jonny Mack",
+      "pfp_url": "https://i.seadn.io/gae/oeyOFjLzIVCMec49KdmBp24ZHL82XXqLLDlLRuvUR8InycSpmf9ZtSCfN69lgojeOoucD7fU9cjxAt4raFBTTgSo34gD5lSZ83Klb1k?w=500&auto=format",
+      "profile": {
+        "bio": {
+          "text": "building /fabric"
+        }
+      },
+      "follower_count": 400785,
+      "following_count": 3712,
+      "verifications": [
+        "0xb6f6dce6000ca88cc936b450cedb16a5c15f157f",
+        "0xe44f52de82dcdafb86273b463036515b3b7cac84"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb6f6dce6000ca88cc936b450cedb16a5c15f157f",
+          "0xe44f52de82dcdafb86273b463036515b3b7cac84"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": true
+    }
+  ],
+  "0x12846a6da4e729a6b5c33d32f93bf52ee3cae8c3": [
+    {
+      "object": "user",
+      "fid": 196340,
+      "custody_address": "0x12846a6da4e729a6b5c33d32f93bf52ee3cae8c3",
+      "username": "hotgirl",
+      "display_name": "Nguyen Bao Ngoc",
+      "pfp_url": "https://beb-public.s3.us-west-1.amazonaws.com/orange.jpg",
+      "profile": {
+        "bio": {
+          "text": "Love papa"
+        }
+      },
+      "follower_count": 223,
+      "following_count": 341,
+      "verifications": [
+        "0x12846a6da4e729a6b5c33d32f93bf52ee3cae8c3"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x12846a6da4e729a6b5c33d32f93bf52ee3cae8c3"
+        ],
+        "sol_addresses": [
+          "FaX55UafgRm4G3tCbMELnQmAJjj6CtVT6quZ9dtruLZy"
+        ]
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x395f876dcd47bd7e8190bea1f55682cd10f6e541": [
+    {
+      "object": "user",
+      "fid": 250373,
+      "custody_address": "0x967576afe619879ac4e4d84efa3894f8afad923c",
+      "username": "samicocm",
+      "display_name": "Sam Sei",
+      "pfp_url": "https://i.imgur.com/5WNzPP5.jpg",
+      "profile": {
+        "bio": {
+          "text": "Investor"
+        }
+      },
+      "follower_count": 85,
+      "following_count": 73,
+      "verifications": [
+        "0x395f876dcd47bd7e8190bea1f55682cd10f6e541"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x395f876dcd47bd7e8190bea1f55682cd10f6e541"
+        ],
+        "sol_addresses": [
+          "C4ZKLVhQZQuzUavqMo21QNgFWASikwNngZXM1rDARyhX"
+        ]
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    },
+    {
+      "object": "user",
+      "fid": 352833,
+      "custody_address": "0x395f876dcd47bd7e8190bea1f55682cd10f6e541",
+      "username": "!352833",
+      "display_name": null,
+      "pfp_url": null,
+      "profile": {
+        "bio": {
+          "text": ""
+        }
+      },
+      "follower_count": 1,
+      "following_count": 0,
+      "verifications": [],
+      "verified_addresses": {
+        "eth_addresses": [],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x9eab9d856a3a667dc4cd10001d59c679c64756e7": [
+    {
+      "object": "user",
+      "fid": 373,
+      "custody_address": "0x1ca66c990e86b750ea6b2180d17fff89273a5c0d",
+      "username": "jayme",
+      "display_name": "Jayme Hoffman",
+      "pfp_url": "https://lh3.googleusercontent.com/kXfYD6XCiZZz5I2lHu_00NfDS-TAzJ700i_pK7RfJiPoyR7LQLJe0S1AfHLAHUgrO4tZtDSn-XpHttdWz5YYt-Ok5E9jai6_wA6gP3Q",
+      "profile": {
+        "bio": {
+          "text": "Exploring what's next. Founder /launchcaster. YC alum. Avid trail runner 🍊🏃"
+        }
+      },
+      "follower_count": 147550,
+      "following_count": 2078,
+      "verifications": [
+        "0x9eab9d856a3a667dc4cd10001d59c679c64756e7"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x9eab9d856a3a667dc4cd10001d59c679c64756e7"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": true
+    }
+  ],
+  "0x95045076fc93a14a4e9b576599479cb4f58a1b11": [
+    {
+      "object": "user",
+      "fid": 23472,
+      "custody_address": "0xd3b4b2a5eb9c49cde9b11050c3c61ea3d81b7507",
+      "username": "akiphumi",
+      "display_name": "akiphumi ✈️",
+      "pfp_url": "https://i.imgur.com/kZDOyHt.jpg",
+      "profile": {
+        "bio": {
+          "text": "I'm a little teapot who didn't fill out my bio"
+        }
+      },
+      "follower_count": 176,
+      "following_count": 232,
+      "verifications": [
+        "0x95045076fc93a14a4e9b576599479cb4f58a1b11"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x95045076fc93a14a4e9b576599479cb4f58a1b11"
+        ],
+        "sol_addresses": [
+          "EmXwqdQXcT7H8QGFaxNrcuCLtEV4TEEVCqNoJDCj59Eq"
+        ]
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    },
+    {
+      "object": "user",
+      "fid": 391454,
+      "custody_address": "0x95045076fc93a14a4e9b576599479cb4f58a1b11",
+      "username": "!391454",
+      "display_name": null,
+      "pfp_url": null,
+      "profile": {
+        "bio": {
+          "text": ""
+        }
+      },
+      "follower_count": 1,
+      "following_count": 0,
+      "verifications": [],
+      "verified_addresses": {
+        "eth_addresses": [],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x578c38dbf0ac4c8c531c9f6990cfcb395f3dd717": [
+    {
+      "object": "user",
+      "fid": 198714,
+      "custody_address": "0x5409efe193a2fcfe13bdd5e0381ed02f295bcd55",
+      "username": "cyberpyro",
+      "display_name": "Cyberpyro",
+      "pfp_url": "https://ipfs.decentralized-content.com/ipfs/bafybeiegrnialwu66u3nwzkn4gik4i2x2h4ip7y3w2dlymzlpxb5lrqbom",
+      "profile": {
+        "bio": {
+          "text": "Engineer with interest in crypto/NFT"
+        }
+      },
+      "follower_count": 97,
+      "following_count": 87,
+      "verifications": [
+        "0x578c38dbf0ac4c8c531c9f6990cfcb395f3dd717"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x578c38dbf0ac4c8c531c9f6990cfcb395f3dd717"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0xdfa413375306e2169adcbbe8551f69739328e6dd": [
+    {
+      "object": "user",
+      "fid": 2759,
+      "custody_address": "0xa3855c9fba6e4967eda744fd1a2a0e2a37133d04",
+      "username": "cynthia",
+      "display_name": "cynthia",
+      "pfp_url": "https://i.imgur.com/ciLwQeN.jpg",
+      "profile": {
+        "bio": {
+          "text": "ʕ •ᴥ•ʔ 📸 "
+        }
+      },
+      "follower_count": 928,
+      "following_count": 320,
+      "verifications": [
+        "0xdfa413375306e2169adcbbe8551f69739328e6dd"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xdfa413375306e2169adcbbe8551f69739328e6dd"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": true
+    }
+  ],
+  "0xf59913186f6cc9cb0db1cf196818acaf464e187e": [
+    {
+      "object": "user",
+      "fid": 281581,
+      "custody_address": "0x7eb2380388f8228e4db473669af8331b91b2a03c",
+      "username": "mrmeme-eth",
+      "display_name": "MrMeme",
+      "pfp_url": "https://ipfs.decentralized-content.com/ipfs/bafybeibucmxwfeayxi5s425sznyn65ebccymtpb5vptiqvjga545li63rm/36.png",
+      "profile": {
+        "bio": {
+          "text": "Memer / B3L Board Member / Funded FTMO and TopStep Trader"
+        }
+      },
+      "follower_count": 18,
+      "following_count": 90,
+      "verifications": [
+        "0xf59913186f6cc9cb0db1cf196818acaf464e187e",
+        "0x12bdabd46f4562ca6dac61a6dea7b765afb57896"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xf59913186f6cc9cb0db1cf196818acaf464e187e",
+          "0x12bdabd46f4562ca6dac61a6dea7b765afb57896"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0xd8ceded685018c7cb972fe9686f2ced6a1c7e0e7": [
+    {
+      "object": "user",
+      "fid": 352515,
+      "custody_address": "0xd8ceded685018c7cb972fe9686f2ced6a1c7e0e7",
+      "username": "!352515",
+      "display_name": null,
+      "pfp_url": null,
+      "profile": {
+        "bio": {
+          "text": ""
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [],
+      "verified_addresses": {
+        "eth_addresses": [],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0xd7b7a3ab29b3282dc76419bd57776e0e90de8a41": [
+    {
+      "object": "user",
+      "fid": 2755,
+      "custody_address": "0xff2f54fe685ce709e13961671de84f851460f105",
+      "username": "bichonxattack",
+      "display_name": "Mike 🎩",
+      "pfp_url": "https://lh3.googleusercontent.com/pPHF4f1FDCF409CtE7R70euZUoFaSF4kfXH-1taEDhA2WzvMYc5gj-RPa9odAliOgY2I-UCXylSfoBCUy1YXnh4wTL7UOGiZOzHw",
+      "profile": {
+        "bio": {
+          "text": "mike / santal33.eth / LA 🌴"
+        }
+      },
+      "follower_count": 3851,
+      "following_count": 1054,
+      "verifications": [
+        "0xd7b7a3ab29b3282dc76419bd57776e0e90de8a41"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xd7b7a3ab29b3282dc76419bd57776e0e90de8a41"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": true
+    }
+  ],
+  "0x7de475851ccb4fdd5cbdfe7b6947f721b07c9fad": [
+    {
+      "object": "user",
+      "fid": 247321,
+      "custody_address": "0xcbe5d40071927efa568a8adbecbd45eed74d8f5f",
+      "username": "bubbo",
+      "display_name": "bubbo 🎩 ",
+      "pfp_url": "https://i.imgur.com/S8u0McO.jpg",
+      "profile": {
+        "bio": {
+          "text": "gm ▪️ gmbl ▪️gn\n"
+        }
+      },
+      "follower_count": 150,
+      "following_count": 143,
+      "verifications": [
+        "0x7de475851ccb4fdd5cbdfe7b6947f721b07c9fad"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x7de475851ccb4fdd5cbdfe7b6947f721b07c9fad"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x99ca828835220771ef396d96003a2a5ce4122cc4": [
+    {
+      "object": "user",
+      "fid": 276845,
+      "custody_address": "0x35b5c0ff611ec162d806d2c63de974b8dbaa918c",
+      "username": "namberguan",
+      "display_name": "Kim Jong Bear",
+      "pfp_url": "https://i.imgur.com/C6o4yuF.jpg",
+      "profile": {
+        "bio": {
+          "text": "Not your average North Korean Supreme Bear Leader. "
+        }
+      },
+      "follower_count": 80,
+      "following_count": 77,
+      "verifications": [
+        "0x99ca828835220771ef396d96003a2a5ce4122cc4"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x99ca828835220771ef396d96003a2a5ce4122cc4"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x270de0ae1bef06d1de5cdbdcf411357f5784ed2e": [
+    {
+      "object": "user",
+      "fid": 2126,
+      "custody_address": "0x4f09640c3a9855cce73c65302751bca76ae78cc4",
+      "username": "ananthsridhar.eth",
+      "display_name": "Arjun ",
+      "pfp_url": "https://eigen-layer.s3.us-east-1.amazonaws.com/tokens/7941.png",
+      "profile": {
+        "bio": {
+          "text": "Can AI help cool the planet? "
+        }
+      },
+      "follower_count": 968,
+      "following_count": 1436,
+      "verifications": [
+        "0x270de0ae1bef06d1de5cdbdcf411357f5784ed2e"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x270de0ae1bef06d1de5cdbdcf411357f5784ed2e"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": true
+    }
+  ],
+  "0xa80b9cba10e137cf1279128523a98430b0f30733": [
+    {
+      "object": "user",
+      "fid": 371491,
+      "custody_address": "0xa80b9cba10e137cf1279128523a98430b0f30733",
+      "username": "hellboy",
+      "display_name": "Le Ngoc Thao Linh",
+      "pfp_url": "https://i.imgur.com/X1yAkB2.jpg",
+      "profile": {
+        "bio": {
+          "text": "Hello all"
+        }
+      },
+      "follower_count": 172,
+      "following_count": 273,
+      "verifications": [
+        "0xa80b9cba10e137cf1279128523a98430b0f30733"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xa80b9cba10e137cf1279128523a98430b0f30733"
+        ],
+        "sol_addresses": [
+          "Djm1Cs5fw83fYVqXkG5x75goPRY4tjWUXLCjZsBjtJxS"
+        ]
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0xe9eba220d1b041f839704ba748a0e1c74f5d9c75": [
+    {
+      "object": "user",
+      "fid": 7415,
+      "custody_address": "0xbe209c96c0864cdd7440984039e412423e2ef454",
+      "username": "franklynr",
+      "display_name": "Franklyn 🎩",
+      "pfp_url": "https://i.imgur.com/bWKAuUM.jpg",
+      "profile": {
+        "bio": {
+          "text": "Cyber | Infosec | Crypto | Innovation"
+        }
+      },
+      "follower_count": 1728,
+      "following_count": 350,
+      "verifications": [
+        "0xe9eba220d1b041f839704ba748a0e1c74f5d9c75"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xe9eba220d1b041f839704ba748a0e1c74f5d9c75"
+        ],
+        "sol_addresses": [
+          "Fy8vTZ7YoE5TtZSWzn8gM9cfagGwi9FmVTZ8Fe9PHcH2"
+        ]
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x04d7e0f47d94f32416250e94fd6b8d4074ce97cf": [
+    {
+      "object": "user",
+      "fid": 279925,
+      "custody_address": "0x544139c3b6068cf363637cce9fb50d255a5cea41",
+      "username": "marrintrading",
+      "display_name": "marrintrading.eth 🎩",
+      "pfp_url": "https://i.imgur.com/FgtQila.jpg",
+      "profile": {
+        "bio": {
+          "text": "marrintrading.eth | haberdasher | mochimon lover\n\n\n\nhttps://twitter.com/marrin_trading\n"
+        }
+      },
+      "follower_count": 787,
+      "following_count": 843,
+      "verifications": [
+        "0x04d7e0f47d94f32416250e94fd6b8d4074ce97cf"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x04d7e0f47d94f32416250e94fd6b8d4074ce97cf"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x99fdd2a67ba5ec9fb98f451f0e88d0fbec1ee121": [
+    {
+      "object": "user",
+      "fid": 243602,
+      "custody_address": "0x4896638222ab349c5e8204f43e4aaf89fd2df9af",
+      "username": "cbenz",
+      "display_name": "Crypto Benz",
+      "pfp_url": "https://i.imgur.com/t8cKcv1.jpg",
+      "profile": {
+        "bio": {
+          "text": "Follow me on X @crypto_benz"
+        }
+      },
+      "follower_count": 732,
+      "following_count": 594,
+      "verifications": [
+        "0x99fdd2a67ba5ec9fb98f451f0e88d0fbec1ee121",
+        "0x99fdd2a67ba5ec9fb98f451f0e88d0fbec1ee121"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x99fdd2a67ba5ec9fb98f451f0e88d0fbec1ee121",
+          "0x99fdd2a67ba5ec9fb98f451f0e88d0fbec1ee121"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x74fa01a5d0ef8039f1e14f4d4c8f90e8602e07b4": [
+    {
+      "object": "user",
+      "fid": 18586,
+      "custody_address": "0xfde7386f73aca34bd429408d6347de802147f60c",
+      "username": "links",
+      "display_name": "links 🏴",
+      "pfp_url": "https://i.imgur.com/UFDP8h4.jpg",
+      "profile": {
+        "bio": {
+          "text": "Startup artist seeking inspiration.  Champion of /bcard"
+        }
+      },
+      "follower_count": 9054,
+      "following_count": 779,
+      "verifications": [
+        "0x74fa01a5d0ef8039f1e14f4d4c8f90e8602e07b4"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x74fa01a5d0ef8039f1e14f4d4c8f90e8602e07b4"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": true
+    }
+  ],
+  "0x43e65f8116174d1c38eed3545d21fc37ea34b565": [
+    {
+      "object": "user",
+      "fid": 196341,
+      "custody_address": "0x43e65f8116174d1c38eed3545d21fc37ea34b565",
+      "username": "hotboy",
+      "display_name": "Nguyen Thi Oanh",
+      "pfp_url": "https://beb-public.s3.us-west-1.amazonaws.com/blue.jpg",
+      "profile": {
+        "bio": {
+          "text": "Love my family"
+        }
+      },
+      "follower_count": 201,
+      "following_count": 315,
+      "verifications": [
+        "0x43e65f8116174d1c38eed3545d21fc37ea34b565"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x43e65f8116174d1c38eed3545d21fc37ea34b565"
+        ],
+        "sol_addresses": [
+          "HuP2iJZMDCUouZ2pRp2afyZzteo9cU7Z2B2RYZUEdWLL"
+        ]
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0xf3236c9d0b623cc261009484db5cfed2079a007f": [
+    {
+      "object": "user",
+      "fid": 4724,
+      "custody_address": "0x21e44b8636714512885e9a26cf26e594948556c5",
+      "username": "semui.eth",
+      "display_name": "Semui",
+      "pfp_url": "https://ipfs.decentralized-content.com/ipfs/QmYwFtX2jtCf84tVXEPCDsfx515kK4ShEorZ3SKXg99GWV",
+      "profile": {
+        "bio": {
+          "text": "Digital Tinker. Dad. I like to collect jpegs and want to see more people enjoy digital assets. https://nf.td/semui"
+        }
+      },
+      "follower_count": 1751,
+      "following_count": 263,
+      "verifications": [
+        "0xf3236c9d0b623cc261009484db5cfed2079a007f",
+        "0x3cb63b82d778105e43f064ed739b0655f1f0fb87",
+        "0xa35ccb7a14c9adc8901253f92119b2a9d3b546bc"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xf3236c9d0b623cc261009484db5cfed2079a007f",
+          "0x3cb63b82d778105e43f064ed739b0655f1f0fb87",
+          "0xa35ccb7a14c9adc8901253f92119b2a9d3b546bc"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": true
+    }
+  ],
+  "0x2b228d08e4c609aa610a489f9133263b2a7f8669": [
+    {
+      "object": "user",
+      "fid": 248724,
+      "custody_address": "0x3082d4d0f7e6bf27676cbd1d1b9b101cc4302a9d",
+      "username": "frenkie",
+      "display_name": "Anon User",
+      "pfp_url": "https://i.imgur.com/nQH7uKb.png",
+      "profile": {
+        "bio": {
+          "text": ""
+        }
+      },
+      "follower_count": 100,
+      "following_count": 69,
+      "verifications": [
+        "0x2b228d08e4c609aa610a489f9133263b2a7f8669"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x2b228d08e4c609aa610a489f9133263b2a7f8669"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0xdb07c87750178a6c5602393fee15c0f8a4b506ab": [
+    {
+      "object": "user",
+      "fid": 301542,
+      "custody_address": "0x696b047ac022dae57928f820714fc5a1bf039f7a",
+      "username": "m33pao.eth",
+      "display_name": "Botplawhale",
+      "pfp_url": "https://i.imgur.com/UPJy1jb.jpg",
+      "profile": {
+        "bio": {
+          "text": "Crypto Investor\nHi everyone!\nhttps://warpcast.com/m33pao.eth"
+        }
+      },
+      "follower_count": 986,
+      "following_count": 1057,
+      "verifications": [
+        "0xdb07c87750178a6c5602393fee15c0f8a4b506ab",
+        "0xf792165778c8178ee22c3ddd0739d52b60aa06a7"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xdb07c87750178a6c5602393fee15c0f8a4b506ab",
+          "0xf792165778c8178ee22c3ddd0739d52b60aa06a7"
+        ],
+        "sol_addresses": [
+          "ErDs3snbzKAGWcvKtpkD58LX776JSNjJCK3qu3Z1ced4"
+        ]
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0xca119907cfd60c35e8eedcf99b1db01ef8c179aa": [
+    {
+      "object": "user",
+      "fid": 196354,
+      "custody_address": "0xca119907cfd60c35e8eedcf99b1db01ef8c179aa",
+      "username": "hentai",
+      "display_name": "Nguyen Thi Thu Van",
+      "pfp_url": "https://beb-public.s3.us-west-1.amazonaws.com/purple.jpg",
+      "profile": {
+        "bio": {
+          "text": "Never late to try again !"
+        }
+      },
+      "follower_count": 206,
+      "following_count": 323,
+      "verifications": [
+        "0xca119907cfd60c35e8eedcf99b1db01ef8c179aa"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xca119907cfd60c35e8eedcf99b1db01ef8c179aa"
+        ],
+        "sol_addresses": [
+          "EYcEbB6Vx57XbVM7dRAY82m7vbfdjUZX3v3GW9CS5u6h"
+        ]
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x47ba2d564d75677485638acffe54a5cab90807fa": [
+    {
+      "object": "user",
+      "fid": 308043,
+      "custody_address": "0x847db9f061804443772ce0462387fc8c163d5aff",
+      "username": "knightnah.eth",
+      "display_name": "Nah",
+      "pfp_url": "https://i.imgur.com/FvTH6Ke.jpg",
+      "profile": {
+        "bio": {
+          "text": "Trader"
+        }
+      },
+      "follower_count": 77,
+      "following_count": 118,
+      "verifications": [
+        "0x47ba2d564d75677485638acffe54a5cab90807fa"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x47ba2d564d75677485638acffe54a5cab90807fa"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x42eed31a8bb26099364b301ae087acfb037ba864": [
+    {
+      "object": "user",
+      "fid": 195820,
+      "custody_address": "0x42eed31a8bb26099364b301ae087acfb037ba864",
+      "username": "heineken",
+      "display_name": "Le Quoc Anh Tuan",
+      "pfp_url": "https://beb-public.s3.us-west-1.amazonaws.com/black.jpg",
+      "profile": {
+        "bio": {
+          "text": "I love my family"
+        }
+      },
+      "follower_count": 148,
+      "following_count": 267,
+      "verifications": [
+        "0x42eed31a8bb26099364b301ae087acfb037ba864",
+        "0x42eed31a8bb26099364b301ae087acfb037ba864"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x42eed31a8bb26099364b301ae087acfb037ba864",
+          "0x42eed31a8bb26099364b301ae087acfb037ba864"
+        ],
+        "sol_addresses": [
+          "8RNEJf2BGu46tt7BUyqbmXi1gqyQziTghYsCuJ4inthQ"
+        ]
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0xc3d43f8e008ccff959101b8d0d26562e84d2b204": [
+    {
+      "object": "user",
+      "fid": 196355,
+      "custody_address": "0xc3d43f8e008ccff959101b8d0d26562e84d2b204",
+      "username": "logistics",
+      "display_name": "Le Quoc Dai",
+      "pfp_url": "https://beb-public.s3.us-west-1.amazonaws.com/red.jpg",
+      "profile": {
+        "bio": {
+          "text": "Nothing"
+        }
+      },
+      "follower_count": 175,
+      "following_count": 284,
+      "verifications": [
+        "0xc3d43f8e008ccff959101b8d0d26562e84d2b204"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xc3d43f8e008ccff959101b8d0d26562e84d2b204"
+        ],
+        "sol_addresses": [
+          "2UyKtVJnuJ2kQX7WtMHKFVgbdaXc6nD6fj4tmyxH5eHK"
+        ]
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x8f0dd04835a6dcf8f7042ab57c82762c11086301": [
+    {
+      "object": "user",
+      "fid": 232126,
+      "custody_address": "0xb6f83ae53e5e5769381258df85c8f856457cd4d3",
+      "username": "paradoxial",
+      "display_name": "Geo ",
+      "pfp_url": "https://i.imgur.com/1kRVKuN.jpg",
+      "profile": {
+        "bio": {
+          "text": ""
+        }
+      },
+      "follower_count": 28,
+      "following_count": 105,
+      "verifications": [
+        "0x8f0dd04835a6dcf8f7042ab57c82762c11086301",
+        "0x8e81e697392bcd94a79519e9c20dabae02ede463"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x8f0dd04835a6dcf8f7042ab57c82762c11086301",
+          "0x8e81e697392bcd94a79519e9c20dabae02ede463"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0xed727248627fda303a1794f5da747215b6314330": [
+    {
+      "object": "user",
+      "fid": 5181,
+      "custody_address": "0x31642deaf133a61cb4bf7a240877364ca825b2d2",
+      "username": "uncledavo",
+      "display_name": "Uncle Davo",
+      "pfp_url": "https://i.imgur.com/dwqLnV6.gif",
+      "profile": {
+        "bio": {
+          "text": "Working on something new. davo.wtf"
+        }
+      },
+      "follower_count": 51652,
+      "following_count": 2637,
+      "verifications": [
+        "0xed727248627fda303a1794f5da747215b6314330"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xed727248627fda303a1794f5da747215b6314330"
+        ],
+        "sol_addresses": [
+          "AW3QE5f3bc7xqSAwT6Dwkdnh3ezdXAvarVTQtdWezCi9"
+        ]
+      },
+      "active_status": "inactive",
+      "power_badge": true
+    }
+  ],
+  "0x3d7a23a65480c1ce76792b839ef68895fc3ab811": [
+    {
+      "object": "user",
+      "fid": 244843,
+      "custody_address": "0x3c7749d0a917da0630ab579456c3061a82439ab3",
+      "username": "kryptera",
+      "display_name": "Kryptera",
+      "pfp_url": "https://i.imgur.com/zJ5KziC.jpg",
+      "profile": {
+        "bio": {
+          "text": "It's going to be a crypto era soon"
+        }
+      },
+      "follower_count": 194,
+      "following_count": 388,
+      "verifications": [
+        "0x3d7a23a65480c1ce76792b839ef68895fc3ab811"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x3d7a23a65480c1ce76792b839ef68895fc3ab811"
+        ],
+        "sol_addresses": [
+          "3k62UuF5yCQiYSEgcMpLSfcTPo6dFxDwQhRoeCdYeWmz"
+        ]
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x121dd42384db6ad04851f7ac1e81bcd8bbb1876e": [
+    {
+      "object": "user",
+      "fid": 16963,
+      "custody_address": "0xbabc307b679b172afc4fca1819ecd82d71405135",
+      "username": "velajuel.eth",
+      "display_name": "🎩Velajuel🥷🏼",
+      "pfp_url": "https://i.imgur.com/1ZBFQc2.jpg",
+      "profile": {
+        "bio": {
+          "text": "CFO at Infinity Capital \n\nhttps://www.infinitycapital.info/"
+        }
+      },
+      "follower_count": 298,
+      "following_count": 512,
+      "verifications": [
+        "0x121dd42384db6ad04851f7ac1e81bcd8bbb1876e"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x121dd42384db6ad04851f7ac1e81bcd8bbb1876e"
+        ],
+        "sol_addresses": [
+          "69DjMYsQNr9PS5xpRddKbPCNo21ZyaQ1QnTmYiv8A5r3"
+        ]
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ],
+  "0x27629b5d175e899a19ed6b3a96016377d5ee4768": [
+    {
+      "object": "user",
+      "fid": 6090,
+      "custody_address": "0x67d667fbd1d9b5a9e307b4b320d5948cd52be6f2",
+      "username": "simmons",
+      "display_name": "Dan Simmons 🟪🟡",
+      "pfp_url": "https://i.imgur.com/92L390w.png",
+      "profile": {
+        "bio": {
+          "text": "Bringing podcasts onchain @pods | Farcaster OG #481"
+        }
+      },
+      "follower_count": 620,
+      "following_count": 268,
+      "verifications": [
+        "0x27629b5d175e899a19ed6b3a96016377d5ee4768"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x27629b5d175e899a19ed6b3a96016377d5ee4768"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": true
+    }
+  ],
+  "0x38b2bac6431604dffec17a1e6adc649a9ea0efba": [
+    {
+      "object": "user",
+      "fid": 9933,
+      "custody_address": "0x820ae05036e269becbd3b01aa7e30bbc9f75026d",
+      "username": "m00npapi.eth",
+      "display_name": "m00npapi🎩q/dau",
+      "pfp_url": "https://i.imgur.com/81LKUfp.gif",
+      "profile": {
+        "bio": {
+          "text": "dev / collector / chef / ex-Twitter\n\nB.S in Chemical Engineering\n\nBUIDLGUIDL 🛡️⚔️🛠️ \n\nspeedrunethereum.com\n\n+\n\nhttps://youtube.com/@Ongaloid?si=w25tJeY-XgXt0i"
+        }
+      },
+      "follower_count": 7326,
+      "following_count": 1458,
+      "verifications": [
+        "0x38b2bac6431604dffec17a1e6adc649a9ea0efba"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x38b2bac6431604dffec17a1e6adc649a9ea0efba"
+        ],
+        "sol_addresses": [
+          "CoR1gSCxFnmQBLrLSsrHsVDXmrYHpkeuwmkyBgfMuYFT"
+        ]
+      },
+      "active_status": "inactive",
+      "power_badge": true
+    }
+  ],
+  "0x50d2dec635c48f5e8cede341df87c651c6cd5318": [
+    {
+      "object": "user",
+      "fid": 6602,
+      "custody_address": "0x38fde592328f12fa47ca5953543d126294d20c30",
+      "username": "willyampangestu",
+      "display_name": "WillyamPangestu",
+      "pfp_url": "https://i.imgur.com/efkLjGh.jpg",
+      "profile": {
+        "bio": {
+          "text": "WEN BANSOS SER?!!"
+        }
+      },
+      "follower_count": 484,
+      "following_count": 725,
+      "verifications": [
+        "0x50d2dec635c48f5e8cede341df87c651c6cd5318"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x50d2dec635c48f5e8cede341df87c651c6cd5318"
+        ],
+        "sol_addresses": []
+      },
+      "active_status": "inactive",
+      "power_badge": false
+    }
+  ]
+}
