@@ -131,9 +131,9 @@ app.get("/nft-holders/:contractAddress", async (req, res) => {
 
     res.json({
       contractAddress,
-      totalOwners: owners,
+      totalOwners: owners.length,
       // farcasterUsers: fids.length,
-      fids: fids,
+      fids: fids.length,
       feed
     });
   } catch (error) {
