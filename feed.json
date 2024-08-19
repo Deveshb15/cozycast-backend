@@ -1,0 +1,2187 @@
+{
+  "casts": [
+    {
+      "object": "cast",
+      "hash": "0xfce5cf321e7c65cddbe607a26d62ef6416bbd70d",
+      "thread_hash": "0xfce5cf321e7c65cddbe607a26d62ef6416bbd70d",
+      "parent_hash": null,
+      "parent_url": "https://warpcast.com/~/channel/wufs",
+      "root_parent_url": "https://warpcast.com/~/channel/wufs",
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 6806,
+        "custody_address": "0xe1b1e3bbf4f29bd7253d6fc1e2ddc9cacb0a546a",
+        "username": "dawufi",
+        "display_name": "dawufi",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/406101e5-2c23-4890-e6c9-26fc2dc03600/original",
+        "profile": {
+          "bio": {
+            "text": "vibe architect for /opacity --\nhost of vibe check podcast \n▶️ https://pods.media/vibe-check\n❄️ icebreaker.xyz/dawufi\n👀 seemore.tv/free/fc/dawufi"
+          }
+        },
+        "follower_count": 63318,
+        "following_count": 2058,
+        "verifications": [
+          "0x0964256674e42d61f0ff84097e28f65311786ccb"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x0964256674e42d61f0ff84097e28f65311786ccb"
+          ],
+          "sol_addresses": []
+        },
+        "active_status": "inactive",
+        "power_badge": true
+      },
+      "text": "It's going to be a good day\n\nGm\n\nWuf",
+      "timestamp": "2024-08-19T11:51:45.000Z",
+      "embeds": [
+        {
+          "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4c26a14d-08f1-4f68-2813-2899a2aca000/original",
+          "metadata": {
+            "content_type": "image/png",
+            "content_length": "32716",
+            "_status": "RESOLVED",
+            "image": {
+              "width_px": 996,
+              "height_px": 212
+            }
+          }
+        }
+      ],
+      "reactions": {
+        "likes_count": 0,
+        "recasts_count": 0,
+        "likes": [],
+        "recasts": []
+      },
+      "replies": {
+        "count": 0
+      },
+      "channel": {
+        "object": "channel_dehydrated",
+        "id": "wufs",
+        "name": "wufs",
+        "image_url": "https://i.imgur.com/O8mpzs4.png"
+      },
+      "mentioned_profiles": []
+    },
+    {
+      "object": "cast",
+      "hash": "0xd47a3580e19fe10c45850451c191d64b78fa315c",
+      "thread_hash": "0xd47a3580e19fe10c45850451c191d64b78fa315c",
+      "parent_hash": null,
+      "parent_url": "chain://eip155:1/erc721:0x7dd4e31f1530ac682c8ea4d8016e95773e08d8b0",
+      "root_parent_url": "chain://eip155:1/erc721:0x7dd4e31f1530ac682c8ea4d8016e95773e08d8b0",
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 5925,
+        "custody_address": "0x38e5009ef2640a4c28898931ee1fae34a888eeeb",
+        "username": "teleyinex.eth",
+        "display_name": "Daniel Lombraña ",
+        "pfp_url": "https://i.imgur.com/uUj91M6.jpg",
+        "profile": {
+          "bio": {
+            "text": "🌷💀⏳\n\nteleyinex.eth ▫️\n\nteleyinex.lens ▫️\n\nteleyine.x ▫️\n\ndaniellombrana.es  ▫️\n\n@astaralabs ▫️\n\n@obeygiant ▫️\n\n@scifabric ▫️\n\ndev"
+          }
+        },
+        "follower_count": 2314,
+        "following_count": 304,
+        "verifications": [
+          "0x12cba59f5a74db81a12ff63c349bd82cbf6007c2",
+          "0xb8bc27e04b5c563c8d534f1834ee9b1b18920142"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x12cba59f5a74db81a12ff63c349bd82cbf6007c2",
+            "0xb8bc27e04b5c563c8d534f1834ee9b1b18920142"
+          ],
+          "sol_addresses": []
+        },
+        "active_status": "inactive",
+        "power_badge": true
+      },
+      "text": "I have just discovered this python library https://tenacity.readthedocs.io/en/latest/ for retrying any type of failure. It is pretty handy as it has ways to retry and stop after a number of attemps or a number of seconds using only a decorator.",
+      "timestamp": "2024-08-19T11:45:13.000Z",
+      "embeds": [
+        {
+          "url": "https://tenacity.readthedocs.io/en/latest/",
+          "metadata": {
+            "content_type": "text/html;charset=utf-8",
+            "content_length": null,
+            "_status": "RESOLVED"
+          }
+        }
+      ],
+      "reactions": {
+        "likes_count": 1,
+        "recasts_count": 0,
+        "likes": [
+          {
+            "fid": 368422,
+            "fname": "automod"
+          }
+        ],
+        "recasts": []
+      },
+      "replies": {
+        "count": 1
+      },
+      "channel": {
+        "object": "channel_dehydrated",
+        "id": "dev",
+        "name": "dev",
+        "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreigbei45ni5zsliszzeivotgee5auj2ykkh6zrzjwvm4izviidusny"
+      },
+      "mentioned_profiles": []
+    },
+    {
+      "object": "cast",
+      "hash": "0x47ccafe10144f4536f34040301c0ee88b8c64a4d",
+      "thread_hash": "0x47ccafe10144f4536f34040301c0ee88b8c64a4d",
+      "parent_hash": null,
+      "parent_url": "https://warpcast.com/~/channel/semui",
+      "root_parent_url": "https://warpcast.com/~/channel/semui",
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 4724,
+        "custody_address": "0x21e44b8636714512885e9a26cf26e594948556c5",
+        "username": "semui.eth",
+        "display_name": "Semui",
+        "pfp_url": "https://ipfs.decentralized-content.com/ipfs/QmYwFtX2jtCf84tVXEPCDsfx515kK4ShEorZ3SKXg99GWV",
+        "profile": {
+          "bio": {
+            "text": "Digital Tinker. Dad. I like to collect jpegs and want to see more people enjoy digital assets. https://nf.td/semui"
+          }
+        },
+        "follower_count": 1751,
+        "following_count": 263,
+        "verifications": [
+          "0xf3236c9d0b623cc261009484db5cfed2079a007f",
+          "0x3cb63b82d778105e43f064ed739b0655f1f0fb87",
+          "0xa35ccb7a14c9adc8901253f92119b2a9d3b546bc"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0xf3236c9d0b623cc261009484db5cfed2079a007f",
+            "0x3cb63b82d778105e43f064ed739b0655f1f0fb87",
+            "0xa35ccb7a14c9adc8901253f92119b2a9d3b546bc"
+          ],
+          "sol_addresses": []
+        },
+        "active_status": "inactive",
+        "power_badge": true
+      },
+      "text": "By habit I take written notes and took down a number I had to use later on a post-it note.\n\nOf course I forget to bring the post-it note.\n\nBut of course I knew I would forget it so I took a photo of the post-it note and had it on my phone.\n\nRedundancy prevents many a woe.",
+      "timestamp": "2024-08-19T11:35:32.000Z",
+      "embeds": [],
+      "reactions": {
+        "likes_count": 0,
+        "recasts_count": 0,
+        "likes": [],
+        "recasts": []
+      },
+      "replies": {
+        "count": 0
+      },
+      "channel": {
+        "object": "channel_dehydrated",
+        "id": "semui",
+        "name": "semui",
+        "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b001dbab-0781-4854-3f4d-7fb137a1dc00/rectcrop3"
+      },
+      "mentioned_profiles": []
+    },
+    {
+      "object": "cast",
+      "hash": "0x5919c5960072104fa71c4a56e5f6da375cc5cb7e",
+      "thread_hash": "0x5919c5960072104fa71c4a56e5f6da375cc5cb7e",
+      "parent_hash": null,
+      "parent_url": "https://warpcast.com/~/channel/therapy",
+      "root_parent_url": "https://warpcast.com/~/channel/therapy",
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 12111,
+        "custody_address": "0x1ce4817db20c4c7a447076f98e4a7d8f8cccf058",
+        "username": "simonapop",
+        "display_name": "SP",
+        "pfp_url": "https://i.imgur.com/i6w3eN6.png",
+        "profile": {
+          "bio": {
+            "text": "joyfully subverting the status quo 〰️ /therapy host | biomimicry + psycho-socio-economic dynamics aficionado 🧠\nadvisor @optimism | PG steward @ensdomains "
+          }
+        },
+        "follower_count": 1647,
+        "following_count": 319,
+        "verifications": [
+          "0x743285e167c7f84eb992af1bcbea7a8b6c579f77"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x743285e167c7f84eb992af1bcbea7a8b6c579f77"
+          ],
+          "sol_addresses": []
+        },
+        "active_status": "inactive",
+        "power_badge": true
+      },
+      "text": "Feel to heal",
+      "timestamp": "2024-08-19T11:11:17.000Z",
+      "embeds": [],
+      "reactions": {
+        "likes_count": 1,
+        "recasts_count": 0,
+        "likes": [
+          {
+            "fid": 3017,
+            "fname": "rafi"
+          }
+        ],
+        "recasts": []
+      },
+      "replies": {
+        "count": 1
+      },
+      "channel": {
+        "object": "channel_dehydrated",
+        "id": "therapy",
+        "name": "therapy",
+        "image_url": "https://i.imgur.com/4TxCBQd.png"
+      },
+      "mentioned_profiles": []
+    },
+    {
+      "object": "cast",
+      "hash": "0x8ed229b7f7fa26247c18d2d04491cf5c4627858b",
+      "thread_hash": "0x8ed229b7f7fa26247c18d2d04491cf5c4627858b",
+      "parent_hash": null,
+      "parent_url": "chain://eip155:1/erc721:0x9c8ff314c9bc7f6e59a9d9225fb22946427edc03",
+      "root_parent_url": "chain://eip155:1/erc721:0x9c8ff314c9bc7f6e59a9d9225fb22946427edc03",
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 3734,
+        "custody_address": "0x4d2966b3edaa7c67d5613a62ee179d62b190384d",
+        "username": "sasquatch",
+        "display_name": "Sasquatch テ",
+        "pfp_url": "https://i.imgur.com/ZfjkWSo.jpg",
+        "profile": {
+          "bio": {
+            "text": "Noun 181 & founder of @esports"
+          }
+        },
+        "follower_count": 2201,
+        "following_count": 603,
+        "verifications": [
+          "0xe3f27deff96fe178e87559f36cbf868b9e75967d"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0xe3f27deff96fe178e87559f36cbf868b9e75967d"
+          ],
+          "sol_addresses": []
+        },
+        "active_status": "inactive",
+        "power_badge": true
+      },
+      "text": "1. Finds out about Nouns through our @esports presence in the game Counter-Strike\n2. Submits a nouns.gg proposal (and wins!) to host a tournament for her greater community\n3. Onboarded to Warpcast by the /nounsfe team and is now helping others sign up\n4. Already submitted multiple banger /noundry submissions\n\nWelcome to the community @vividdarkfps ⌐◨-◨",
+      "timestamp": "2024-08-19T05:24:08.000Z",
+      "embeds": [
+        {
+          "cast_id": {
+            "fid": 384868,
+            "hash": "0xa6394edac211a8353268c12c256ec13d7240374c"
+          }
+        }
+      ],
+      "reactions": {
+        "likes_count": 17,
+        "recasts_count": 3,
+        "likes": [
+          {
+            "fid": 10575,
+            "fname": "gretagremplin"
+          },
+          {
+            "fid": 4167,
+            "fname": "thenounishprof.eth"
+          },
+          {
+            "fid": 636617,
+            "fname": "i88"
+          },
+          {
+            "fid": 11990,
+            "fname": "peterpandam"
+          },
+          {
+            "fid": 623610,
+            "fname": "cheer-up"
+          }
+        ],
+        "recasts": [
+          {
+            "fid": 4167,
+            "fname": "thenounishprof.eth"
+          },
+          {
+            "fid": 7418,
+            "fname": "flexasaurusrex"
+          },
+          {
+            "fid": 384868,
+            "fname": "nounslunari.eth"
+          }
+        ]
+      },
+      "replies": {
+        "count": 1
+      },
+      "channel": {
+        "object": "channel_dehydrated",
+        "id": "nouns",
+        "name": "Nouns",
+        "image_url": "https://warpcast.com/~/channel-images/nouns.png"
+      },
+      "mentioned_profiles": [
+        {
+          "object": "user",
+          "fid": 20265,
+          "custody_address": "0x0bcc280197bbaeb82e9f246450aa3ec68610f9e0",
+          "username": "esports",
+          "display_name": "Nouns Esports",
+          "pfp_url": "https://i.imgur.com/YqMUkRo.jpg",
+          "profile": {
+            "bio": {
+              "text": "Bringing esports onchain. We’re a /nouns community — nouns.gg",
+              "mentioned_profiles": []
+            }
+          },
+          "follower_count": 765,
+          "following_count": 45,
+          "verifications": [
+            "0xa22e30ec47bf0a2005e11e81d9b08427bbca0b8b"
+          ],
+          "verified_addresses": {
+            "eth_addresses": [
+              "0xa22e30ec47bf0a2005e11e81d9b08427bbca0b8b"
+            ],
+            "sol_addresses": []
+          },
+          "active_status": "inactive",
+          "power_badge": true
+        },
+        {
+          "object": "user",
+          "fid": 817307,
+          "custody_address": "0xce4edd3ee422ff9c6aab00c89b741f77b942a932",
+          "username": "vividdarkfps",
+          "display_name": "VividDarkFPS",
+          "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f0850886-49b0-4e10-3e8e-08a10b4f1400/rectcrop3",
+          "profile": {
+            "bio": {
+              "text": "✧. 🫀┊⁭ /cs2 /gaming /streamers for Limitless┊ Rogue Energy Partner┊ beacons.ai/vividdarkfps\n\n♥ HexT *♡∞:｡.｡",
+              "mentioned_profiles": []
+            }
+          },
+          "follower_count": 58,
+          "following_count": 40,
+          "verifications": [
+            "0xce4edd3ee422ff9c6aab00c89b741f77b942a932"
+          ],
+          "verified_addresses": {
+            "eth_addresses": [
+              "0xce4edd3ee422ff9c6aab00c89b741f77b942a932"
+            ],
+            "sol_addresses": []
+          },
+          "active_status": "inactive",
+          "power_badge": false
+        }
+      ]
+    },
+    {
+      "object": "cast",
+      "hash": "0x34e99e7a9ce327ab890607eff9cf2d4ffcd13d9c",
+      "thread_hash": "0x34e99e7a9ce327ab890607eff9cf2d4ffcd13d9c",
+      "parent_hash": null,
+      "parent_url": "https://warpcast.com/~/channel/replyguys",
+      "root_parent_url": "https://warpcast.com/~/channel/replyguys",
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 248111,
+        "custody_address": "0x73444b11879471e41cdb7fdc8bfc8f85dfe122d6",
+        "username": "darkoh.eth",
+        "display_name": "Darkoh🍓",
+        "pfp_url": "https://res.cloudinary.com/merkle-manufactory/image/fetch/c_fill,f_gif,w_112,h_112/https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b08cdc60-d2bd-4298-b6ad-e8008667bf00/rectcrop3",
+        "profile": {
+          "bio": {
+            "text": "Based Berry Boi \n"
+          }
+        },
+        "follower_count": 12341,
+        "following_count": 667,
+        "verifications": [
+          "0xbeb40eafd717ae1c6ac0414ba1631f46e2777795",
+          "0xdedcc1ac81a47dac556ab7347b1d4efa061318a8"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0xbeb40eafd717ae1c6ac0414ba1631f46e2777795",
+            "0xdedcc1ac81a47dac556ab7347b1d4efa061318a8"
+          ],
+          "sol_addresses": [
+            "7asDntRHyEkZmZpyArYTvEp7y6PXHXZFkFNmiitozvrL"
+          ]
+        },
+        "active_status": "inactive",
+        "power_badge": true
+      },
+      "text": "GM to my fellow early riser cobbee superheroes",
+      "timestamp": "2024-08-19T10:52:08.000Z",
+      "embeds": [
+        {
+          "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fc5784c9-927e-4510-6696-7e55fdec3600/original",
+          "metadata": {
+            "content_type": "image/png",
+            "content_length": "1749914",
+            "_status": "RESOLVED",
+            "image": {
+              "width_px": 1024,
+              "height_px": 1024
+            }
+          }
+        }
+      ],
+      "reactions": {
+        "likes_count": 16,
+        "recasts_count": 0,
+        "likes": [
+          {
+            "fid": 404454,
+            "fname": "bbvaswitzerland.eth"
+          },
+          {
+            "fid": 468120,
+            "fname": "slvku"
+          },
+          {
+            "fid": 299388,
+            "fname": "refan"
+          },
+          {
+            "fid": 266782,
+            "fname": "atnsarts"
+          },
+          {
+            "fid": 493739,
+            "fname": "agnimax"
+          }
+        ],
+        "recasts": []
+      },
+      "replies": {
+        "count": 13
+      },
+      "channel": {
+        "object": "channel_dehydrated",
+        "id": "replyguys",
+        "name": "reply guys",
+        "image_url": "https://i.imgur.com/xDBupZD.jpg"
+      },
+      "mentioned_profiles": []
+    },
+    {
+      "object": "cast",
+      "hash": "0x0986d9c8b12a476a4e63acee75071e16c133eada",
+      "thread_hash": "0x0986d9c8b12a476a4e63acee75071e16c133eada",
+      "parent_hash": null,
+      "parent_url": "https://warpcast.com/~/channel/supa",
+      "root_parent_url": "https://warpcast.com/~/channel/supa",
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 7408,
+        "custody_address": "0x8364089ef4452ea75b14b1a0094bb04320b30400",
+        "username": "emush",
+        "display_name": "emush🎩",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/69a9a54e-977c-4779-3c6b-0ed0621e3b00/rectcrop3",
+        "profile": {
+          "bio": {
+            "text": "/the northern nightmare"
+          }
+        },
+        "follower_count": 3319,
+        "following_count": 1396,
+        "verifications": [
+          "0xb8ac952dcdfd1e77222213ae508ad8864dc391b4"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0xb8ac952dcdfd1e77222213ae508ad8864dc391b4"
+          ],
+          "sol_addresses": [
+            "B29X6ec9yHeFHSNMpdXfcWYScAjKyt2w6yL6bGYbGETM"
+          ]
+        },
+        "active_status": "inactive",
+        "power_badge": false
+      },
+      "text": "lets begin the crypto the game",
+      "timestamp": "2024-08-19T10:48:46.000Z",
+      "embeds": [],
+      "reactions": {
+        "likes_count": 1,
+        "recasts_count": 0,
+        "likes": [
+          {
+            "fid": 428352,
+            "fname": "mohammed7"
+          }
+        ],
+        "recasts": []
+      },
+      "replies": {
+        "count": 0
+      },
+      "channel": {
+        "object": "channel_dehydrated",
+        "id": "supa",
+        "name": "supa",
+        "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/87576a64-86de-4584-a347-c1b22bcd7b00/original"
+      },
+      "mentioned_profiles": []
+    },
+    {
+      "object": "cast",
+      "hash": "0x89cd5821992a6ff4c33dec16773f0675a9e97381",
+      "thread_hash": "0x89cd5821992a6ff4c33dec16773f0675a9e97381",
+      "parent_hash": null,
+      "parent_url": null,
+      "root_parent_url": null,
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 7408,
+        "custody_address": "0x8364089ef4452ea75b14b1a0094bb04320b30400",
+        "username": "emush",
+        "display_name": "emush🎩",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/69a9a54e-977c-4779-3c6b-0ed0621e3b00/rectcrop3",
+        "profile": {
+          "bio": {
+            "text": "/the northern nightmare"
+          }
+        },
+        "follower_count": 3319,
+        "following_count": 1396,
+        "verifications": [
+          "0xb8ac952dcdfd1e77222213ae508ad8864dc391b4"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0xb8ac952dcdfd1e77222213ae508ad8864dc391b4"
+          ],
+          "sol_addresses": [
+            "B29X6ec9yHeFHSNMpdXfcWYScAjKyt2w6yL6bGYbGETM"
+          ]
+        },
+        "active_status": "inactive",
+        "power_badge": false
+      },
+      "text": "add me",
+      "timestamp": "2024-08-19T10:43:44.000Z",
+      "embeds": [
+        {
+          "url": "https://pfp-collage-test.vercel.app/api",
+          "metadata": {
+            "content_type": "text/html;charset=utf-8",
+            "content_length": null,
+            "_status": "RESOLVED"
+          }
+        }
+      ],
+      "frames": [
+        {
+          "version": "vNext",
+          "title": "dyamic",
+          "image": "https://pfp-collage-test.vercel.app/api/img",
+          "image_aspect_ratio": "1:1",
+          "buttons": [
+            {
+              "index": 1,
+              "title": "refresh",
+              "action_type": "post",
+              "target": "https://pfp-collage-test.vercel.app/api?initialPath=%252Fapi&previousButtonValues=%2523A_%252C_l"
+            },
+            {
+              "index": 2,
+              "title": "share",
+              "action_type": "link",
+              "target": "https://warpcast.com/~/compose?text=add%20me&embeds[]=https://pfp-collage-test.vercel.app/api"
+            }
+          ],
+          "input": {},
+          "state": {},
+          "post_url": "https://pfp-collage-test.vercel.app/api?initialPath=%252Fapi&previousButtonValues=%2523A_%252C_l",
+          "frames_url": "https://pfp-collage-test.vercel.app/api"
+        }
+      ],
+      "reactions": {
+        "likes_count": 2,
+        "recasts_count": 0,
+        "likes": [
+          {
+            "fid": 428352,
+            "fname": "mohammed7"
+          },
+          {
+            "fid": 6498,
+            "fname": "snail"
+          }
+        ],
+        "recasts": []
+      },
+      "replies": {
+        "count": 0
+      },
+      "channel": null,
+      "mentioned_profiles": []
+    },
+    {
+      "object": "cast",
+      "hash": "0x4e4caae7c6606d9f7fa8c0ec798ae7a9ba96d57c",
+      "thread_hash": "0x4e4caae7c6606d9f7fa8c0ec798ae7a9ba96d57c",
+      "parent_hash": null,
+      "parent_url": null,
+      "root_parent_url": null,
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 7408,
+        "custody_address": "0x8364089ef4452ea75b14b1a0094bb04320b30400",
+        "username": "emush",
+        "display_name": "emush🎩",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/69a9a54e-977c-4779-3c6b-0ed0621e3b00/rectcrop3",
+        "profile": {
+          "bio": {
+            "text": "/the northern nightmare"
+          }
+        },
+        "follower_count": 3319,
+        "following_count": 1396,
+        "verifications": [
+          "0xb8ac952dcdfd1e77222213ae508ad8864dc391b4"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0xb8ac952dcdfd1e77222213ae508ad8864dc391b4"
+          ],
+          "sol_addresses": [
+            "B29X6ec9yHeFHSNMpdXfcWYScAjKyt2w6yL6bGYbGETM"
+          ]
+        },
+        "active_status": "inactive",
+        "power_badge": false
+      },
+      "text": "パターン青！使徒です！",
+      "timestamp": "2024-08-19T10:41:28.000Z",
+      "embeds": [
+        {
+          "cast_id": {
+            "fid": 403413,
+            "hash": "0xb996039f3be3d7bd2506ce421114231223d19996"
+          }
+        }
+      ],
+      "reactions": {
+        "likes_count": 1,
+        "recasts_count": 0,
+        "likes": [
+          {
+            "fid": 428352,
+            "fname": "mohammed7"
+          }
+        ],
+        "recasts": []
+      },
+      "replies": {
+        "count": 0
+      },
+      "channel": null,
+      "mentioned_profiles": []
+    },
+    {
+      "object": "cast",
+      "hash": "0x9e8f15c9388f9cf4bcee80e2e471a893a8d7b614",
+      "thread_hash": "0x9e8f15c9388f9cf4bcee80e2e471a893a8d7b614",
+      "parent_hash": null,
+      "parent_url": "chain://eip155:1/erc721:0x7dd4e31f1530ac682c8ea4d8016e95773e08d8b0",
+      "root_parent_url": "chain://eip155:1/erc721:0x7dd4e31f1530ac682c8ea4d8016e95773e08d8b0",
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 5925,
+        "custody_address": "0x38e5009ef2640a4c28898931ee1fae34a888eeeb",
+        "username": "teleyinex.eth",
+        "display_name": "Daniel Lombraña ",
+        "pfp_url": "https://i.imgur.com/uUj91M6.jpg",
+        "profile": {
+          "bio": {
+            "text": "🌷💀⏳\n\nteleyinex.eth ▫️\n\nteleyinex.lens ▫️\n\nteleyine.x ▫️\n\ndaniellombrana.es  ▫️\n\n@astaralabs ▫️\n\n@obeygiant ▫️\n\n@scifabric ▫️\n\ndev"
+          }
+        },
+        "follower_count": 2314,
+        "following_count": 304,
+        "verifications": [
+          "0x12cba59f5a74db81a12ff63c349bd82cbf6007c2",
+          "0xb8bc27e04b5c563c8d534f1834ee9b1b18920142"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x12cba59f5a74db81a12ff63c349bd82cbf6007c2",
+            "0xb8bc27e04b5c563c8d534f1834ee9b1b18920142"
+          ],
+          "sol_addresses": []
+        },
+        "active_status": "inactive",
+        "power_badge": true
+      },
+      "text": "This never gets old (https://xkcd.com/303/) What do you do when you are compiling code?",
+      "timestamp": "2024-08-19T10:10:32.000Z",
+      "embeds": [
+        {
+          "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/658a695c-b164-456d-9dff-c1f9d3e6cd00/original",
+          "metadata": {
+            "content_type": "image/png",
+            "content_length": "53656",
+            "_status": "RESOLVED",
+            "image": {
+              "width_px": 413,
+              "height_px": 360
+            }
+          }
+        }
+      ],
+      "reactions": {
+        "likes_count": 5,
+        "recasts_count": 1,
+        "likes": [
+          {
+            "fid": 686649,
+            "fname": "sushev"
+          },
+          {
+            "fid": 711927,
+            "fname": "layni"
+          },
+          {
+            "fid": 690547,
+            "fname": "liuyin0911"
+          },
+          {
+            "fid": 261360,
+            "fname": "difi"
+          },
+          {
+            "fid": 368422,
+            "fname": "automod"
+          }
+        ],
+        "recasts": [
+          {
+            "fid": 690547,
+            "fname": "liuyin0911"
+          }
+        ]
+      },
+      "replies": {
+        "count": 2
+      },
+      "channel": {
+        "object": "channel_dehydrated",
+        "id": "dev",
+        "name": "dev",
+        "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreigbei45ni5zsliszzeivotgee5auj2ykkh6zrzjwvm4izviidusny"
+      },
+      "mentioned_profiles": []
+    },
+    {
+      "object": "cast",
+      "hash": "0x51332f877a55c557a6a631c5b4b1b4e735e7b33c",
+      "thread_hash": "0x51332f877a55c557a6a631c5b4b1b4e735e7b33c",
+      "parent_hash": null,
+      "parent_url": "https://warpcast.com/~/channel/airstack",
+      "root_parent_url": "https://warpcast.com/~/channel/airstack",
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 5925,
+        "custody_address": "0x38e5009ef2640a4c28898931ee1fae34a888eeeb",
+        "username": "teleyinex.eth",
+        "display_name": "Daniel Lombraña ",
+        "pfp_url": "https://i.imgur.com/uUj91M6.jpg",
+        "profile": {
+          "bio": {
+            "text": "🌷💀⏳\n\nteleyinex.eth ▫️\n\nteleyinex.lens ▫️\n\nteleyine.x ▫️\n\ndaniellombrana.es  ▫️\n\n@astaralabs ▫️\n\n@obeygiant ▫️\n\n@scifabric ▫️\n\ndev"
+          }
+        },
+        "follower_count": 2314,
+        "following_count": 304,
+        "verifications": [
+          "0x12cba59f5a74db81a12ff63c349bd82cbf6007c2",
+          "0xb8bc27e04b5c563c8d534f1834ee9b1b18920142"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x12cba59f5a74db81a12ff63c349bd82cbf6007c2",
+            "0xb8bc27e04b5c563c8d534f1834ee9b1b18920142"
+          ],
+          "sol_addresses": []
+        },
+        "active_status": "inactive",
+        "power_badge": true
+      },
+      "text": "I love and test all the frames, regarding my moxie stats, but: how do I know if I'm good or bad? Like, yes, you the frames show values, but they don't give a me framework to compare to. Without that piece of information, the frame is useless because you don't know how to improve or what to do. Can someone add that information to their frames please?",
+      "timestamp": "2024-08-19T10:07:04.000Z",
+      "embeds": [],
+      "reactions": {
+        "likes_count": 6,
+        "recasts_count": 4,
+        "likes": [
+          {
+            "fid": 580743,
+            "fname": "mianhuzaifa"
+          },
+          {
+            "fid": 351827,
+            "fname": "manucho"
+          },
+          {
+            "fid": 526072,
+            "fname": "muhammadhafeez"
+          },
+          {
+            "fid": 797336,
+            "fname": "luli"
+          },
+          {
+            "fid": 348532,
+            "fname": "julia0809"
+          }
+        ],
+        "recasts": [
+          {
+            "fid": 580743,
+            "fname": "mianhuzaifa"
+          },
+          {
+            "fid": 526072,
+            "fname": "muhammadhafeez"
+          },
+          {
+            "fid": 797336,
+            "fname": "luli"
+          },
+          {
+            "fid": 348532,
+            "fname": "julia0809"
+          }
+        ]
+      },
+      "replies": {
+        "count": 3
+      },
+      "channel": {
+        "object": "channel_dehydrated",
+        "id": "airstack",
+        "name": "airstack",
+        "image_url": "https://i.imgur.com/13jY9D4.png"
+      },
+      "mentioned_profiles": []
+    },
+    {
+      "object": "cast",
+      "hash": "0xe3d16eaafbd860fd7e0b2347546672451b95c58a",
+      "thread_hash": "0xe3d16eaafbd860fd7e0b2347546672451b95c58a",
+      "parent_hash": null,
+      "parent_url": null,
+      "root_parent_url": null,
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 5925,
+        "custody_address": "0x38e5009ef2640a4c28898931ee1fae34a888eeeb",
+        "username": "teleyinex.eth",
+        "display_name": "Daniel Lombraña ",
+        "pfp_url": "https://i.imgur.com/uUj91M6.jpg",
+        "profile": {
+          "bio": {
+            "text": "🌷💀⏳\n\nteleyinex.eth ▫️\n\nteleyinex.lens ▫️\n\nteleyine.x ▫️\n\ndaniellombrana.es  ▫️\n\n@astaralabs ▫️\n\n@obeygiant ▫️\n\n@scifabric ▫️\n\ndev"
+          }
+        },
+        "follower_count": 2314,
+        "following_count": 304,
+        "verifications": [
+          "0x12cba59f5a74db81a12ff63c349bd82cbf6007c2",
+          "0xb8bc27e04b5c563c8d534f1834ee9b1b18920142"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x12cba59f5a74db81a12ff63c349bd82cbf6007c2",
+            "0xb8bc27e04b5c563c8d534f1834ee9b1b18920142"
+          ],
+          "sol_addresses": []
+        },
+        "active_status": "inactive",
+        "power_badge": true
+      },
+      "text": "gm",
+      "timestamp": "2024-08-19T10:00:33.000Z",
+      "embeds": [],
+      "reactions": {
+        "likes_count": 1,
+        "recasts_count": 0,
+        "likes": [
+          {
+            "fid": 12567,
+            "fname": "philcockfield.eth"
+          }
+        ],
+        "recasts": []
+      },
+      "replies": {
+        "count": 0
+      },
+      "channel": null,
+      "mentioned_profiles": []
+    },
+    {
+      "object": "cast",
+      "hash": "0x40679daf3ab3b80be34eeee1ef17695ac17ab8f5",
+      "thread_hash": "0x40679daf3ab3b80be34eeee1ef17695ac17ab8f5",
+      "parent_hash": null,
+      "parent_url": "https://warpcast.com/~/channel/cryptoplaza",
+      "root_parent_url": "https://warpcast.com/~/channel/cryptoplaza",
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 812578,
+        "custody_address": "0xccd67515bde1a4607d9e339a5d2df4fdd1401640",
+        "username": "cryptoplaza",
+        "display_name": "Crypto Plaza 🟣",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dd075d54-3d81-48fd-e738-1df2c72c5400/rectcrop3",
+        "profile": {
+          "bio": {
+            "text": "🛡️ Official Account\n\n🌟 Crypto Economic Hub in Spain 🇪🇸\n Connecting businesses, startups 🤝 investors, and crypto enthusiasts \n\n🌐 cryptoplaza.es"
+          }
+        },
+        "follower_count": 75,
+        "following_count": 19,
+        "verifications": [
+          "0xf58df339294ce4055b0dae7b3f30652901e312dc"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0xf58df339294ce4055b0dae7b3f30652901e312dc"
+          ],
+          "sol_addresses": []
+        },
+        "active_status": "inactive",
+        "power_badge": false
+      },
+      "text": "🌄 Buenos Días Comunidad! Hoy comenzamos una nueva semana de agosto.\n\nNo queremos ser aguafiestas pero entramos en la recta final del verano.😩 \n\nEn Crypto Plaza preferimos ver el vaso medio lleno, eso significa que queda muy poco para presentar todas las novedades que traemos para el nuevo curso🤩 \n\n#OnchainCulture 🤫 \n\nY no solo eso, también os dejamos una nueva edición de los Titulares del Día. Ya saben: Like, Rt y hay que seguir a esta cuenta: @cryptoplaza\n\nA comerse la semana!\n\nhttps://glass.cx/noticias19agosto",
+      "timestamp": "2024-08-19T08:35:40.000Z",
+      "embeds": [
+        {
+          "url": "https://glass.cx/noticias19agosto",
+          "metadata": {
+            "content_type": "text/html;charset=utf-8",
+            "content_length": null,
+            "_status": "RESOLVED"
+          }
+        }
+      ],
+      "frames": [
+        {
+          "version": "vNext",
+          "title": "Glass | noticias19agosto",
+          "image": "https://glass.cx/i/frames/8831eb76b526b0ab7ba90abbd51d2913.png",
+          "image_aspect_ratio": "1:1",
+          "buttons": [
+            {
+              "index": 1,
+              "title": "View",
+              "action_type": "post"
+            }
+          ],
+          "input": {},
+          "state": {},
+          "frames_url": "https://glass.cx/noticias19agosto"
+        }
+      ],
+      "reactions": {
+        "likes_count": 12,
+        "recasts_count": 8,
+        "likes": [
+          {
+            "fid": 8127,
+            "fname": "alextrepat"
+          },
+          {
+            "fid": 750789,
+            "fname": "calibr3"
+          },
+          {
+            "fid": 5240,
+            "fname": "josegl"
+          },
+          {
+            "fid": 622994,
+            "fname": "0xcryptolover"
+          },
+          {
+            "fid": 750847,
+            "fname": "maybachamg"
+          }
+        ],
+        "recasts": [
+          {
+            "fid": 5240,
+            "fname": "josegl"
+          },
+          {
+            "fid": 622994,
+            "fname": "0xcryptolover"
+          },
+          {
+            "fid": 492677,
+            "fname": "setus"
+          },
+          {
+            "fid": 4840,
+            "fname": "4cashflow.eth"
+          },
+          {
+            "fid": 7415,
+            "fname": "franklynr"
+          }
+        ]
+      },
+      "replies": {
+        "count": 2
+      },
+      "channel": {
+        "object": "channel_dehydrated",
+        "id": "cryptoplaza",
+        "name": "cryptoplaza",
+        "image_url": "https://i.imgur.com/SeigH4X.jpg"
+      },
+      "mentioned_profiles": [
+        {
+          "object": "user",
+          "fid": 812578,
+          "custody_address": "0xccd67515bde1a4607d9e339a5d2df4fdd1401640",
+          "username": "cryptoplaza",
+          "display_name": "Crypto Plaza 🟣",
+          "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dd075d54-3d81-48fd-e738-1df2c72c5400/rectcrop3",
+          "profile": {
+            "bio": {
+              "text": "🛡️ Official Account\n\n🌟 Crypto Economic Hub in Spain 🇪🇸\n Connecting businesses, startups 🤝 investors, and crypto enthusiasts \n\n🌐 cryptoplaza.es",
+              "mentioned_profiles": []
+            }
+          },
+          "follower_count": 75,
+          "following_count": 19,
+          "verifications": [
+            "0xf58df339294ce4055b0dae7b3f30652901e312dc"
+          ],
+          "verified_addresses": {
+            "eth_addresses": [
+              "0xf58df339294ce4055b0dae7b3f30652901e312dc"
+            ],
+            "sol_addresses": []
+          },
+          "active_status": "inactive",
+          "power_badge": false
+        }
+      ]
+    },
+    {
+      "object": "cast",
+      "hash": "0xf037602a1a80114e79571fb4043fd04f760f0063",
+      "thread_hash": "0xf037602a1a80114e79571fb4043fd04f760f0063",
+      "parent_hash": null,
+      "parent_url": "https://warpcast.com/~/channel/cryptoplaza",
+      "root_parent_url": "https://warpcast.com/~/channel/cryptoplaza",
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 4840,
+        "custody_address": "0x4617efbf644e5f095e5e0a624a63e7d807ccab73",
+        "username": "mikep",
+        "display_name": "MikeP 🎩 🎭",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d7d6ed26-c41c-4e41-174c-744d5775ac00/original",
+        "profile": {
+          "bio": {
+            "text": "I am passionate and enthusiastic about blockchain technology, DEFI and Web3. CryptoTester🔭"
+          }
+        },
+        "follower_count": 954,
+        "following_count": 1735,
+        "verifications": [
+          "0xb13a55d8512aec4bf7b15067d733c4c3c68f2439"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0xb13a55d8512aec4bf7b15067d733c4c3c68f2439"
+          ],
+          "sol_addresses": []
+        },
+        "active_status": "inactive",
+        "power_badge": false
+      },
+      "text": "GM ☀️ The DOGS listing has been rescheduled to August 23 at 12:00 UTC 😎🎩\n\nhttps://x.com/realDogsHouse/status/1825233926560043214",
+      "timestamp": "2024-08-19T07:21:40.000Z",
+      "embeds": [
+        {
+          "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d6799d3b-c47b-49f2-4ac8-3108dc869000/original",
+          "metadata": {
+            "content_type": "image/jpeg",
+            "content_length": "55174",
+            "_status": "RESOLVED",
+            "image": {
+              "width_px": 750,
+              "height_px": 902
+            }
+          }
+        }
+      ],
+      "reactions": {
+        "likes_count": 4,
+        "recasts_count": 0,
+        "likes": [
+          {
+            "fid": 812578,
+            "fname": "cryptoplaza"
+          },
+          {
+            "fid": 4549,
+            "fname": "especulacion"
+          },
+          {
+            "fid": 11782,
+            "fname": "jalleo.eth"
+          },
+          {
+            "fid": 533032,
+            "fname": "gulbashramalik"
+          }
+        ],
+        "recasts": []
+      },
+      "replies": {
+        "count": 1
+      },
+      "channel": {
+        "object": "channel_dehydrated",
+        "id": "cryptoplaza",
+        "name": "cryptoplaza",
+        "image_url": "https://i.imgur.com/SeigH4X.jpg"
+      },
+      "mentioned_profiles": []
+    },
+    {
+      "object": "cast",
+      "hash": "0x1f9ca34cb47106e48c6354cbdd53866373703aff",
+      "thread_hash": "0x1f9ca34cb47106e48c6354cbdd53866373703aff",
+      "parent_hash": null,
+      "parent_url": "https://warpcast.com/~/channel/airdrop",
+      "root_parent_url": "https://warpcast.com/~/channel/airdrop",
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 4840,
+        "custody_address": "0x4617efbf644e5f095e5e0a624a63e7d807ccab73",
+        "username": "mikep",
+        "display_name": "MikeP 🎩 🎭",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d7d6ed26-c41c-4e41-174c-744d5775ac00/original",
+        "profile": {
+          "bio": {
+            "text": "I am passionate and enthusiastic about blockchain technology, DEFI and Web3. CryptoTester🔭"
+          }
+        },
+        "follower_count": 954,
+        "following_count": 1735,
+        "verifications": [
+          "0xb13a55d8512aec4bf7b15067d733c4c3c68f2439"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0xb13a55d8512aec4bf7b15067d733c4c3c68f2439"
+          ],
+          "sol_addresses": []
+        },
+        "active_status": "inactive",
+        "power_badge": false
+      },
+      "text": "GM ☀️ Swell took White Pearls snapshot 😎🎩\n\nhttps://x.com/swellnetworkio/status/1825080773118173625",
+      "timestamp": "2024-08-19T06:14:17.000Z",
+      "embeds": [
+        {
+          "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/eb22e367-3676-4743-eb6f-898b7253f000/original",
+          "metadata": {
+            "content_type": "image/jpeg",
+            "content_length": "12142",
+            "_status": "RESOLVED",
+            "image": {
+              "width_px": 594,
+              "height_px": 308
+            }
+          }
+        },
+        {
+          "url": "https://x.com/swellnetworkio/status/1825080773118173625",
+          "metadata": {
+            "_status": "PENDING"
+          }
+        }
+      ],
+      "reactions": {
+        "likes_count": 0,
+        "recasts_count": 0,
+        "likes": [],
+        "recasts": []
+      },
+      "replies": {
+        "count": 0
+      },
+      "channel": {
+        "object": "channel_dehydrated",
+        "id": "airdrop",
+        "name": "airdrop",
+        "image_url": "https://i.imgur.com/EPKOVg8.jpg"
+      },
+      "mentioned_profiles": []
+    },
+    {
+      "object": "cast",
+      "hash": "0x2a3e58ee186f49989cb098d40227919610022377",
+      "thread_hash": "0x2a3e58ee186f49989cb098d40227919610022377",
+      "parent_hash": null,
+      "parent_url": "https://farcaster.group/trading",
+      "root_parent_url": "https://farcaster.group/trading",
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 4840,
+        "custody_address": "0x4617efbf644e5f095e5e0a624a63e7d807ccab73",
+        "username": "mikep",
+        "display_name": "MikeP 🎩 🎭",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d7d6ed26-c41c-4e41-174c-744d5775ac00/original",
+        "profile": {
+          "bio": {
+            "text": "I am passionate and enthusiastic about blockchain technology, DEFI and Web3. CryptoTester🔭"
+          }
+        },
+        "follower_count": 954,
+        "following_count": 1735,
+        "verifications": [
+          "0xb13a55d8512aec4bf7b15067d733c4c3c68f2439"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0xb13a55d8512aec4bf7b15067d733c4c3c68f2439"
+          ],
+          "sol_addresses": []
+        },
+        "active_status": "inactive",
+        "power_badge": false
+      },
+      "text": "GM ☀️ The crypto market is neutral\nBTC Dominance - 55.22% 😎🎩\n\nMarket Cap - $2.10T\nBTC - $58,730.81 (-1.77%)\nETH - $2,643.74 (+1.45%)\nBNB - $536.8 (+0.09%)\nSOL - $143.33 (+1.25%)\nXRP - $0.5665 (-0.1%)\nZRO - $3.46 (-0.27%)\nTON - $7.02 (+8.09%)",
+      "timestamp": "2024-08-19T06:09:19.000Z",
+      "embeds": [
+        {
+          "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5aec5b70-57e8-4233-b0fb-a4e9c44d5a00/original",
+          "metadata": {
+            "content_type": "image/jpeg",
+            "content_length": "84647",
+            "_status": "RESOLVED",
+            "image": {
+              "width_px": 1132,
+              "height_px": 921
+            }
+          }
+        }
+      ],
+      "reactions": {
+        "likes_count": 1,
+        "recasts_count": 0,
+        "likes": [
+          {
+            "fid": 451344,
+            "fname": "renatov"
+          }
+        ],
+        "recasts": []
+      },
+      "replies": {
+        "count": 1
+      },
+      "channel": {
+        "object": "channel_dehydrated",
+        "id": "trading",
+        "name": "Trading",
+        "image_url": "https://warpcast.com/~/channel-images/trading.png"
+      },
+      "mentioned_profiles": []
+    },
+    {
+      "object": "cast",
+      "hash": "0xf85ee87a91b8b9e4d18e2b404b59faef3369fc94",
+      "thread_hash": "0xf85ee87a91b8b9e4d18e2b404b59faef3369fc94",
+      "parent_hash": null,
+      "parent_url": "https://warpcast.com/~/channel/july",
+      "root_parent_url": "https://warpcast.com/~/channel/july",
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 2126,
+        "custody_address": "0x4f09640c3a9855cce73c65302751bca76ae78cc4",
+        "username": "ananthsridhar.eth",
+        "display_name": "Arjun ",
+        "pfp_url": "https://eigen-layer.s3.us-east-1.amazonaws.com/tokens/7941.png",
+        "profile": {
+          "bio": {
+            "text": "Can AI help cool the planet? "
+          }
+        },
+        "follower_count": 968,
+        "following_count": 1436,
+        "verifications": [
+          "0x270de0ae1bef06d1de5cdbdcf411357f5784ed2e"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x270de0ae1bef06d1de5cdbdcf411357f5784ed2e"
+          ],
+          "sol_addresses": []
+        },
+        "active_status": "inactive",
+        "power_badge": true
+      },
+      "text": "“Hard times are coming, when we’ll be wanting the voices of writers who can see alternatives to how we live now, can see through our fear-stricken society and its obsessive technologies to other ways of being, and even imagine real grounds for hope. We’ll need writers who can remember freedom—poets, visionaries—realists of a larger reality.”",
+      "timestamp": "2024-08-19T05:12:36.000Z",
+      "embeds": [],
+      "reactions": {
+        "likes_count": 0,
+        "recasts_count": 0,
+        "likes": [],
+        "recasts": []
+      },
+      "replies": {
+        "count": 0
+      },
+      "channel": {
+        "object": "channel_dehydrated",
+        "id": "july",
+        "name": "july",
+        "image_url": "https://i.imgur.com/HZRURoE.jpg"
+      },
+      "mentioned_profiles": []
+    },
+    {
+      "object": "cast",
+      "hash": "0x78e0979e35681900919368c85cd70cfac5f0588b",
+      "thread_hash": "0x78e0979e35681900919368c85cd70cfac5f0588b",
+      "parent_hash": null,
+      "parent_url": null,
+      "root_parent_url": null,
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 7408,
+        "custody_address": "0x8364089ef4452ea75b14b1a0094bb04320b30400",
+        "username": "emush",
+        "display_name": "emush🎩",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/69a9a54e-977c-4779-3c6b-0ed0621e3b00/rectcrop3",
+        "profile": {
+          "bio": {
+            "text": "/the northern nightmare"
+          }
+        },
+        "follower_count": 3319,
+        "following_count": 1396,
+        "verifications": [
+          "0xb8ac952dcdfd1e77222213ae508ad8864dc391b4"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0xb8ac952dcdfd1e77222213ae508ad8864dc391b4"
+          ],
+          "sol_addresses": [
+            "B29X6ec9yHeFHSNMpdXfcWYScAjKyt2w6yL6bGYbGETM"
+          ]
+        },
+        "active_status": "inactive",
+        "power_badge": false
+      },
+      "text": "",
+      "timestamp": "2024-08-19T04:56:53.000Z",
+      "embeds": [
+        {
+          "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4b6f7852-f702-419d-36e4-d2f7aa8e2800/original",
+          "metadata": {
+            "content_type": "image/gif",
+            "content_length": "7812885",
+            "_status": "RESOLVED",
+            "image": {
+              "width_px": 500,
+              "height_px": 500
+            }
+          }
+        }
+      ],
+      "reactions": {
+        "likes_count": 13,
+        "recasts_count": 2,
+        "likes": [
+          {
+            "fid": 428352,
+            "fname": "mohammed7"
+          },
+          {
+            "fid": 388401,
+            "fname": "manytle.eth"
+          },
+          {
+            "fid": 19067,
+            "fname": "ymy"
+          },
+          {
+            "fid": 585995,
+            "fname": "luca1111"
+          },
+          {
+            "fid": 299388,
+            "fname": "refan"
+          }
+        ],
+        "recasts": [
+          {
+            "fid": 585995,
+            "fname": "luca1111"
+          },
+          {
+            "fid": 299388,
+            "fname": "refan"
+          }
+        ]
+      },
+      "replies": {
+        "count": 4
+      },
+      "channel": null,
+      "mentioned_profiles": []
+    },
+    {
+      "object": "cast",
+      "hash": "0x8094295ea9673120f1588130712530c176ca1f08",
+      "thread_hash": "0x8094295ea9673120f1588130712530c176ca1f08",
+      "parent_hash": null,
+      "parent_url": null,
+      "root_parent_url": null,
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 2126,
+        "custody_address": "0x4f09640c3a9855cce73c65302751bca76ae78cc4",
+        "username": "ananthsridhar.eth",
+        "display_name": "Arjun ",
+        "pfp_url": "https://eigen-layer.s3.us-east-1.amazonaws.com/tokens/7941.png",
+        "profile": {
+          "bio": {
+            "text": "Can AI help cool the planet? "
+          }
+        },
+        "follower_count": 968,
+        "following_count": 1436,
+        "verifications": [
+          "0x270de0ae1bef06d1de5cdbdcf411357f5784ed2e"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x270de0ae1bef06d1de5cdbdcf411357f5784ed2e"
+          ],
+          "sol_addresses": []
+        },
+        "active_status": "inactive",
+        "power_badge": true
+      },
+      "text": "👀 🤔",
+      "timestamp": "2024-08-19T03:16:47.000Z",
+      "embeds": [
+        {
+          "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1697af30-c6fe-4438-280a-a955ece7b200/original",
+          "metadata": {
+            "content_type": "image/png",
+            "content_length": "27995",
+            "_status": "RESOLVED",
+            "image": {
+              "width_px": 700,
+              "height_px": 94
+            }
+          }
+        }
+      ],
+      "reactions": {
+        "likes_count": 0,
+        "recasts_count": 0,
+        "likes": [],
+        "recasts": []
+      },
+      "replies": {
+        "count": 0
+      },
+      "channel": null,
+      "mentioned_profiles": []
+    },
+    {
+      "object": "cast",
+      "hash": "0x741c95493206ededdde419ee9c20171893d64628",
+      "thread_hash": "0x741c95493206ededdde419ee9c20171893d64628",
+      "parent_hash": null,
+      "parent_url": "https://warpcast.com/~/channel/wufs",
+      "root_parent_url": "https://warpcast.com/~/channel/wufs",
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 6806,
+        "custody_address": "0xe1b1e3bbf4f29bd7253d6fc1e2ddc9cacb0a546a",
+        "username": "dawufi",
+        "display_name": "dawufi",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/406101e5-2c23-4890-e6c9-26fc2dc03600/original",
+        "profile": {
+          "bio": {
+            "text": "vibe architect for /opacity --\nhost of vibe check podcast \n▶️ https://pods.media/vibe-check\n❄️ icebreaker.xyz/dawufi\n👀 seemore.tv/free/fc/dawufi"
+          }
+        },
+        "follower_count": 63318,
+        "following_count": 2058,
+        "verifications": [
+          "0x0964256674e42d61f0ff84097e28f65311786ccb"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x0964256674e42d61f0ff84097e28f65311786ccb"
+          ],
+          "sol_addresses": []
+        },
+        "active_status": "inactive",
+        "power_badge": true
+      },
+      "text": "I dunno",
+      "timestamp": "2024-08-19T03:06:43.000Z",
+      "embeds": [],
+      "reactions": {
+        "likes_count": 23,
+        "recasts_count": 4,
+        "likes": [
+          {
+            "fid": 505073,
+            "fname": "defimeowler"
+          },
+          {
+            "fid": 429284,
+            "fname": "cryptocrusader"
+          },
+          {
+            "fid": 480498,
+            "fname": "ansakrghtn"
+          },
+          {
+            "fid": 630455,
+            "fname": "706"
+          },
+          {
+            "fid": 519267,
+            "fname": "trinhthien247"
+          }
+        ],
+        "recasts": [
+          {
+            "fid": 630455,
+            "fname": "706"
+          },
+          {
+            "fid": 629936,
+            "fname": "604"
+          },
+          {
+            "fid": 818723,
+            "fname": "coin-sniper"
+          },
+          {
+            "fid": 595319,
+            "fname": "n6"
+          }
+        ]
+      },
+      "replies": {
+        "count": 10
+      },
+      "channel": {
+        "object": "channel_dehydrated",
+        "id": "wufs",
+        "name": "wufs",
+        "image_url": "https://i.imgur.com/O8mpzs4.png"
+      },
+      "mentioned_profiles": []
+    },
+    {
+      "object": "cast",
+      "hash": "0xa430ad1bee2c66dc61f316c3c23ef3e44af69969",
+      "thread_hash": "0xa430ad1bee2c66dc61f316c3c23ef3e44af69969",
+      "parent_hash": null,
+      "parent_url": "chain://eip155:7777777/erc721:0x5747eef366fd36684e8893bf4fe628efc2ac2d10",
+      "root_parent_url": "chain://eip155:7777777/erc721:0x5747eef366fd36684e8893bf4fe628efc2ac2d10",
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 312,
+        "custody_address": "0x3a82f8eb5560af36b27420b586a05209e87ed3f6",
+        "username": "les",
+        "display_name": "Les Greys",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/319def13-b7b6-44f3-0e42-4de5e215e800/rectcrop3",
+        "profile": {
+          "bio": {
+            "text": " lesgreys.com & /grey"
+          }
+        },
+        "follower_count": 76377,
+        "following_count": 3024,
+        "verifications": [
+          "0xf95d5441ac5748a247276e13b8ff2c1298950917",
+          "0xff51cc1519c7a61144d3ff6f883122f150752445"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0xf95d5441ac5748a247276e13b8ff2c1298950917",
+            "0xff51cc1519c7a61144d3ff6f883122f150752445"
+          ],
+          "sol_addresses": []
+        },
+        "active_status": "inactive",
+        "power_badge": true
+      },
+      "text": "The more I hear the big dogs talk about AI, the more I realize they aren’t really aware of what it’s like to be a mid-human — reasonably. \n\n80% of the human population is mid. These people barely know how to use the phone past 20% its capacity. Forget about prompting it. \n\nIf AI is going to take hundreds of billions to scale, it means it’ll take hundreds of billions more to produce products to deliver the models to its devices or edges. Unless the “phone” is the final hardware frontier, which I doubt. \n\nTo me it seems the most likely scenario is not everyone has AI, atleast as an active interaction, instead, AI becomes the voluntary surveillance state for individual freedoms. \n\nOf course “freedom” would have shifted drastically by then. \n\nGn",
+      "timestamp": "2024-08-19T03:02:33.000Z",
+      "embeds": [],
+      "reactions": {
+        "likes_count": 18,
+        "recasts_count": 1,
+        "likes": [
+          {
+            "fid": 835766,
+            "fname": "mahsa-y"
+          },
+          {
+            "fid": 664756,
+            "fname": "cynthiachavez17"
+          },
+          {
+            "fid": 635932,
+            "fname": "big-boy7"
+          },
+          {
+            "fid": 6498,
+            "fname": "snail"
+          },
+          {
+            "fid": 7097,
+            "fname": "m-j-r.eth"
+          }
+        ],
+        "recasts": [
+          {
+            "fid": 6806,
+            "fname": "dawufi.eth"
+          }
+        ]
+      },
+      "replies": {
+        "count": 6
+      },
+      "channel": {
+        "object": "channel_dehydrated",
+        "id": "ai",
+        "name": "AI",
+        "image_url": "https://i.imgur.com/z4yori9.jpg"
+      },
+      "mentioned_profiles": []
+    },
+    {
+      "object": "cast",
+      "hash": "0x839547fe08c128791380e6b63657073b829b29be",
+      "thread_hash": "0x839547fe08c128791380e6b63657073b829b29be",
+      "parent_hash": null,
+      "parent_url": "https://warpcast.com/~/channel/firstdraft",
+      "root_parent_url": "https://warpcast.com/~/channel/firstdraft",
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 15850,
+        "custody_address": "0x73ed37b01877e24e18f229c29588da065ffbd632",
+        "username": "christin",
+        "display_name": "christin",
+        "pfp_url": "https://i.imgur.com/JzRgd9h.jpg",
+        "profile": {
+          "bio": {
+            "text": "neuroscience PhD, vibe imagineer for /christin, co-host of /okbanger and /bcbhshow, onchain chaplain for /spirituality\nseemore.tv/christin"
+          }
+        },
+        "follower_count": 57497,
+        "following_count": 1211,
+        "verifications": [
+          "0x2d240c5d58a8445e99dadf3fd41a492dfeaf7e4c"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x2d240c5d58a8445e99dadf3fd41a492dfeaf7e4c"
+          ],
+          "sol_addresses": []
+        },
+        "active_status": "inactive",
+        "power_badge": true
+      },
+      "text": "i was meeting with a writer friend for dimsum, and he asked what my buddhist chaplaincy has to do with the /okbanger show or what I share on fc. he is a neurosurgeon who studied philosophy, and our conversation over har gow got right to the heart of things. what is the meaning of life, if there is any? what is our purpose?\n\ni have affinity towards buddhism, and it is generalizable to principles of care, supporting agency, and witnessing. what can i do to help others towards their own paths of awakening, in whichever form they choose? what can i do to help those experience injustice, or are otherwise unseen/unheard?\n\non fc, i've been lucky to meet folks early on, and want to make sure folks are welcomed into their own experiences here. as a 1st gen US immigrant, triple minority, with a chronic health condition, who has experienced civil unrest and threats to her life--I do feel the need to stand up for others. not only bc of my chaplaincy vows, but bc i've felt what it's like to be on the outside looking in.",
+      "timestamp": "2024-08-18T23:45:41.000Z",
+      "embeds": [],
+      "reactions": {
+        "likes_count": 66,
+        "recasts_count": 16,
+        "likes": [
+          {
+            "fid": 823003,
+            "fname": "eccelux"
+          },
+          {
+            "fid": 191294,
+            "fname": "benbassler.eth"
+          },
+          {
+            "fid": 243906,
+            "fname": "know"
+          },
+          {
+            "fid": 361746,
+            "fname": "l3mbda"
+          },
+          {
+            "fid": 577184,
+            "fname": "liondande"
+          }
+        ],
+        "recasts": [
+          {
+            "fid": 338870,
+            "fname": "kitana"
+          },
+          {
+            "fid": 276562,
+            "fname": "esss"
+          },
+          {
+            "fid": 616171,
+            "fname": "836"
+          },
+          {
+            "fid": 573162,
+            "fname": "chen888"
+          },
+          {
+            "fid": 704506,
+            "fname": "eng2monir"
+          }
+        ]
+      },
+      "replies": {
+        "count": 24
+      },
+      "channel": {
+        "object": "channel_dehydrated",
+        "id": "firstdraft",
+        "name": "First Draft Club",
+        "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/192c81d5-1249-40d3-1a42-3209c81c6400/original"
+      },
+      "mentioned_profiles": []
+    },
+    {
+      "object": "cast",
+      "hash": "0x55d9ebb99ed51683d1a98842d2213ecbf8987ed0",
+      "thread_hash": "0x55d9ebb99ed51683d1a98842d2213ecbf8987ed0",
+      "parent_hash": null,
+      "parent_url": "https://warpcast.com/~/channel/onchainmedia",
+      "root_parent_url": "https://warpcast.com/~/channel/onchainmedia",
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 15850,
+        "custody_address": "0x73ed37b01877e24e18f229c29588da065ffbd632",
+        "username": "christin",
+        "display_name": "christin",
+        "pfp_url": "https://i.imgur.com/JzRgd9h.jpg",
+        "profile": {
+          "bio": {
+            "text": "neuroscience PhD, vibe imagineer for /christin, co-host of /okbanger and /bcbhshow, onchain chaplain for /spirituality\nseemore.tv/christin"
+          }
+        },
+        "follower_count": 57497,
+        "following_count": 1211,
+        "verifications": [
+          "0x2d240c5d58a8445e99dadf3fd41a492dfeaf7e4c"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x2d240c5d58a8445e99dadf3fd41a492dfeaf7e4c"
+          ],
+          "sol_addresses": []
+        },
+        "active_status": "inactive",
+        "power_badge": true
+      },
+      "text": "episode 2 of the /okbanger show is now /onchainmedia ! \n\n@cameron and I analyze the ok-est bangers and yap about the keys to iterating wisely.",
+      "timestamp": "2024-08-18T21:08:55.000Z",
+      "embeds": [
+        {
+          "url": "https://pods.media/okbanger/002-iterate?referrer=0x262c7aA8f8e12fAA2A85770443eDB8bF77c5513B",
+          "metadata": {
+            "content_type": "text/html;charset=utf-8",
+            "content_length": null,
+            "_status": "RESOLVED"
+          }
+        }
+      ],
+      "frames": [
+        {
+          "version": "vNext",
+          "title": "002 - iterate.",
+          "image": "https://pods.media/api/og/frame/okbanger/002-iterate",
+          "buttons": [
+            {
+              "index": 1,
+              "title": "Mint",
+              "action_type": "tx",
+              "target": "https://pods.media/api/frames/mint/okbanger/002-iterate"
+            },
+            {
+              "index": 2,
+              "title": "Listen",
+              "action_type": "link",
+              "target": "https://pods.media/okbanger/002-iterate"
+            }
+          ],
+          "input": {},
+          "state": {},
+          "post_url": "https://pods.media/frames/okbanger/002-iterate",
+          "frames_url": "https://pods.media/okbanger/002-iterate?referrer=0x262c7aA8f8e12fAA2A85770443eDB8bF77c5513B"
+        }
+      ],
+      "reactions": {
+        "likes_count": 30,
+        "recasts_count": 7,
+        "likes": [
+          {
+            "fid": 767353,
+            "fname": "munawar1"
+          },
+          {
+            "fid": 554553,
+            "fname": "skhizeinz"
+          },
+          {
+            "fid": 554093,
+            "fname": "skhizein.eth"
+          },
+          {
+            "fid": 443879,
+            "fname": "hossainmunna"
+          },
+          {
+            "fid": 221519,
+            "fname": "0xzara"
+          }
+        ],
+        "recasts": [
+          {
+            "fid": 656865,
+            "fname": "longtermspotenti"
+          },
+          {
+            "fid": 6806,
+            "fname": "dawufi.eth"
+          },
+          {
+            "fid": 352723,
+            "fname": "streamm"
+          },
+          {
+            "fid": 6373,
+            "fname": "priyanka"
+          },
+          {
+            "fid": 283144,
+            "fname": "reneecampbell"
+          }
+        ]
+      },
+      "replies": {
+        "count": 11
+      },
+      "channel": {
+        "object": "channel_dehydrated",
+        "id": "onchainmedia",
+        "name": "Onchain Media",
+        "image_url": "https://i.imgur.com/6Qr8isw.jpg"
+      },
+      "mentioned_profiles": [
+        {
+          "object": "user",
+          "fid": 617,
+          "custody_address": "0x70844dc4c5084a3fabbfede2b49c4038ddfe66a3",
+          "username": "cameron",
+          "display_name": "Cameron Armstrong",
+          "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5eec8e4b-8734-468a-08bc-fab0db8fb000/rectcrop3",
+          "profile": {
+            "bio": {
+              "text": "/cameron for content experiments. Helping Creators with /seemore. Yapping on /okbanger. Curating in /lounge. Dev + Veteran + HBS. \nseemore.tv/cameron 🫡",
+              "mentioned_profiles": []
+            }
+          },
+          "follower_count": 227334,
+          "following_count": 2939,
+          "verifications": [
+            "0x19ce57b670121e73e43be6c2fea5c254bb4c8760"
+          ],
+          "verified_addresses": {
+            "eth_addresses": [
+              "0x19ce57b670121e73e43be6c2fea5c254bb4c8760"
+            ],
+            "sol_addresses": []
+          },
+          "active_status": "inactive",
+          "power_badge": true
+        }
+      ]
+    },
+    {
+      "object": "cast",
+      "hash": "0x3b8d8197c5454d51173e9da068282830ab26f071",
+      "thread_hash": "0x3b8d8197c5454d51173e9da068282830ab26f071",
+      "parent_hash": null,
+      "parent_url": "https://warpcast.com/~/channel/opacity",
+      "root_parent_url": "https://warpcast.com/~/channel/opacity",
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 16148,
+        "custody_address": "0xcc168396cb323f4828192b4d78c3f7848314228e",
+        "username": "eulerlagrange.eth",
+        "display_name": "EulerLagrange.eth",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d20697e6-f714-4c5a-aad3-5ba1da907100/rectcrop3",
+        "profile": {
+          "bio": {
+            "text": "Working on building zkTLS infra/products. A ruthless empiricist.\n\nhttp://opacity.network\n\nAdvisor @ EV3 Ventures"
+          }
+        },
+        "follower_count": 235571,
+        "following_count": 660,
+        "verifications": [
+          "0x68b44ea0b78aff90e328406768bedcd387000d31"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x68b44ea0b78aff90e328406768bedcd387000d31"
+          ],
+          "sol_addresses": []
+        },
+        "active_status": "inactive",
+        "power_badge": true
+      },
+      "text": "Saleel we have the trust assumptions solved in MPC-TLS\n\nhttps://warpcast.com/saleel/0x06d0703c",
+      "timestamp": "2024-08-19T00:24:23.000Z",
+      "embeds": [
+        {
+          "cast_id": {
+            "fid": 190092,
+            "hash": "0x06d0703c8feaaecba9af93cbede54813e38145f1"
+          }
+        }
+      ],
+      "reactions": {
+        "likes_count": 9,
+        "recasts_count": 2,
+        "likes": [
+          {
+            "fid": 773207,
+            "fname": "manharick"
+          },
+          {
+            "fid": 1349,
+            "fname": "avichalp"
+          },
+          {
+            "fid": 613381,
+            "fname": "elgal"
+          },
+          {
+            "fid": 6806,
+            "fname": "dawufi.eth"
+          },
+          {
+            "fid": 284679,
+            "fname": "degenveteran.eth"
+          }
+        ],
+        "recasts": [
+          {
+            "fid": 6806,
+            "fname": "dawufi.eth"
+          },
+          {
+            "fid": 573162,
+            "fname": "chen888"
+          }
+        ]
+      },
+      "replies": {
+        "count": 1
+      },
+      "channel": {
+        "object": "channel_dehydrated",
+        "id": "opacity",
+        "name": "Opacity",
+        "image_url": "https://i.imgur.com/06ww0LN.jpg"
+      },
+      "mentioned_profiles": []
+    },
+    {
+      "object": "cast",
+      "hash": "0x1d6c56f64f455eed8c84d391eaae6069a68c39a3",
+      "thread_hash": "0x1d6c56f64f455eed8c84d391eaae6069a68c39a3",
+      "parent_hash": null,
+      "parent_url": null,
+      "root_parent_url": null,
+      "parent_author": {
+        "fid": null
+      },
+      "author": {
+        "object": "user",
+        "fid": 8726,
+        "custody_address": "0x70cf6d8e635893e4c561a7652954339e32fcd4ff",
+        "username": "solana1",
+        "display_name": "SolanaDEGEN1 🎩 “Q”",
+        "pfp_url": "https://i.seadn.io/gae/qUl2i4Q3eNxkXPSRsUhE0R1DPK_PjR3YaT4ZxO0S87K-ZQu6G1R6SvlC8T2NQ1eO1I3MLCASUwgw_NlfvFZuPMIkNMFqaOGteTzkIw?w=500&auto=format",
+        "profile": {
+          "bio": {
+            "text": "Wincoins.us Founder-\n\nA cold storage operational background paired with financial analytics and derivative knowledge. "
+          }
+        },
+        "follower_count": 1018,
+        "following_count": 500,
+        "verifications": [
+          "0x9033b283f07e9ab12285f12d4001332bbfe06dc1"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x9033b283f07e9ab12285f12d4001332bbfe06dc1"
+          ],
+          "sol_addresses": [
+            "45VATU16yPGaKkoEnjiYp54iFV63r8ScVegGnM8A888s"
+          ]
+        },
+        "active_status": "inactive",
+        "power_badge": true
+      },
+      "text": "Does anyone here want to help out with creating an educational website which users pay using USDC or regular credit car? We just walk them through basic crypto content. Bridging, swaps, dexs,how to stay safe, cold storage etc. We can even start by introducing bitcoin ethereum and introduce meme tokens as a whole. We can talk about chains etc. We can start with a free newsletter.",
+      "timestamp": "2024-08-19T01:05:51.000Z",
+      "embeds": [],
+      "reactions": {
+        "likes_count": 1,
+        "recasts_count": 1,
+        "likes": [
+          {
+            "fid": 6806,
+            "fname": "dawufi.eth"
+          }
+        ],
+        "recasts": [
+          {
+            "fid": 6806,
+            "fname": "dawufi.eth"
+          }
+        ]
+      },
+      "replies": {
+        "count": 1
+      },
+      "channel": null,
+      "mentioned_profiles": []
+    }
+  ],
+  "next": {
+    "cursor": "eyJ0aW1lc3RhbXAiOiIyMDI0LTA4LTE5IDAzOjAzOjA5LjAwMDAwMDAifQ%3D%3D"
+  }
+}

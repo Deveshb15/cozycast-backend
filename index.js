@@ -1,9 +1,12 @@
 const express = require("express");
 const axios = require("axios"); // Add this line to import axios
+const fs = require("fs");
 
 const {
   NeynarAPIClient,
   AuthorizationUrlResponseType,
+  FeedType,
+  FilterType,
 } = require("@neynar/nodejs-sdk");
 var { json } = require("body-parser");
 require("dotenv").config({ path: ".env" });
@@ -83,21 +86,23 @@ app.get("/nft-holders/:contractAddress", async (req, res) => {
       headers: { accept: 'application/json' },
     });
     const owners = ownersResponse.data.owners; // Limit to 500 owners
-    
+
 
     // Step 2: Look up FIDs for owners
     const fids = [];
+    let feed = null;
     const BATCH_SIZE = 350;
 
     try {
       for (let i = 0; i < owners.length; i += BATCH_SIZE) {
         const batch = owners.slice(i, i + BATCH_SIZE); // Create a batch of addresses
-        console.log('batches', batch)
         const users = await client.fetchBulkUsersByEthereumAddress(batch);
         for (const addr of batch) {
-          const user = users[addr]?.[0]; // Assuming the first user is the relevant one
-          if (user && user.fid) {
-            fids.push(user.fid); // Add valid FID to the array
+          for (const [key, value] of Object.entries(users)) {
+            if (key?.toLowerCase() === addr?.toLowerCase()) {
+              fids.push(value[0].fid);
+              break;
+            }
           }
         }
       }
@@ -105,11 +110,31 @@ app.get("/nft-holders/:contractAddress", async (req, res) => {
       console.error('Error looking up FIDs:', error);
     }
 
-    res.json({ 
+    try {
+      const feedRes = await axios.get('https://api.neynar.com/v2/farcaster/feed', {
+        headers: {
+          accept: 'application/json',
+          api_key: NEYNAR_API_KEY,
+        },
+        params: {
+          feed_type: FeedType.Filter,
+          filter_type: FilterType.Fids,
+          fids: fids?.join(","),
+          with_recasts: true,
+          limit: 25
+        }
+      });
+      feed = feedRes.data;
+    } catch (error) {
+      console.error('Error looking up FIDs:', error);
+    }
+
+    res.json({
       contractAddress,
       totalOwners: owners,
       // farcasterUsers: fids.length,
-      fids: fids
+      fids: fids,
+      feed
     });
   } catch (error) {
     console.error('Error processing request:', error);
