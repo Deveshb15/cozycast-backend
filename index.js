@@ -91,18 +91,16 @@ app.get("/nft-holders/:contractAddress", async (req, res) => {
     // Step 2: Look up FIDs for owners
     const fids = [];
     let feed = null;
-    const BATCH_SIZE = 350;
+    const BATCH_SIZE = 100;
 
     try {
-      for (let i = 0; i < owners.length; i += BATCH_SIZE) {
-        const batch = owners.slice(i, i + BATCH_SIZE); // Create a batch of addresses
-        const users = await client.fetchBulkUsersByEthereumAddress(batch);
-        for (const addr of batch) {
-          for (const [key, value] of Object.entries(users)) {
-            if (key?.toLowerCase() === addr?.toLowerCase()) {
-              fids.push(value[0].fid);
-              break;
-            }
+      const batch = owners.slice(0, BATCH_SIZE); // Create a batch of addresses
+      const users = await client.fetchBulkUsersByEthereumAddress(batch);
+      for (const addr of batch) {
+        for (const [key, value] of Object.entries(users)) {
+          if (key?.toLowerCase() === addr?.toLowerCase()) {
+            fids.push(value[0].fid);
+            break;
           }
         }
       }
