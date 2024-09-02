@@ -11,6 +11,9 @@ const {
 var { json } = require("body-parser");
 require("dotenv").config({ path: ".env" });
 
+const NodeCache = require("node-cache");
+const cache = new NodeCache({ stdTTL: 1800 }); // 30 minutes in seconds
+
 const app = express();
 
 app.use(json());
@@ -76,7 +79,16 @@ app.post("/cast", async (req, res) => {
 });
 
 app.get("/nft-holders/:contractAddress", async (req, res) => {
-  console.log('Received request for contract address:', req.params.contractAddress);
+  const { contractAddress } = req.params;
+  console.log('Received request for contract address:', contractAddress);
+
+  // Check if we have a cached response
+  const cachedResponse = cache.get(contractAddress);
+  if (cachedResponse) {
+    console.log('Returning cached response for', contractAddress);
+    return res.json(cachedResponse);
+  }
+
   try {
     const { contractAddress } = req.params;
     // console.log('contract add is', contractAddress)
@@ -86,8 +98,7 @@ app.get("/nft-holders/:contractAddress", async (req, res) => {
       headers: { accept: 'application/json' },
     });
     const owners = ownersResponse.data.owners; // Limit to 500 owners
-
-
+    console.log('owners', owners)
     // Step 2: Look up FIDs for owners
     const fids = [];
     let feed = null;
@@ -96,6 +107,7 @@ app.get("/nft-holders/:contractAddress", async (req, res) => {
     try {
       const batch = owners.slice(0, BATCH_SIZE); // Create a batch of addresses
       const users = await client.fetchBulkUsersByEthereumAddress(batch);
+      console.log('users', users)
       for (const addr of batch) {
         for (const [key, value] of Object.entries(users)) {
           if (key?.toLowerCase() === addr?.toLowerCase()) {
@@ -104,6 +116,7 @@ app.get("/nft-holders/:contractAddress", async (req, res) => {
           }
         }
       }
+      console.log('fids', fids)
     } catch (error) {
       console.error('Error looking up FIDs:', error);
     }
@@ -123,19 +136,24 @@ app.get("/nft-holders/:contractAddress", async (req, res) => {
         }
       });
       feed = feedRes.data;
+      console.log('feed', feed)
     } catch (error) {
       console.error('Error looking up FIDs:', error);
     }
 
-    res.json({
+    const response = {
       contractAddress,
       totalOwners: owners.length,
-      // farcasterUsers: fids.length,
       fids: fids.length,
       feed
-    });
+    };
+
+    // Cache the response
+    cache.set(contractAddress, response);
+
+    res.json(response);
   } catch (error) {
-    console.error('Error processing request:', error);
+    console.error('Error processing request:', error.message);
     res.status(500).json({ error: 'Failed to fetch NFT holders and their FIDs' });
   }
 });
