@@ -92,12 +92,14 @@ app.get("/nft-holders/:contractAddress", async (req, res) => {
     const fids = [];
     let feed = null;
     const BATCH_SIZE = 350;
+    const MAX_FIDS = 100;
 
     try {
-      for (let i = 0; i < owners.length; i += BATCH_SIZE) {
+      for (let i = 0; i < owners.length && fids.length < MAX_FIDS; i += BATCH_SIZE) {
         const batch = owners.slice(i, i + BATCH_SIZE); // Create a batch of addresses
         const users = await client.fetchBulkUsersByEthereumAddress(batch);
         for (const addr of batch) {
+          if (fids.length >= MAX_FIDS) break;
           for (const [key, value] of Object.entries(users)) {
             if (key?.toLowerCase() === addr?.toLowerCase()) {
               fids.push(value[0].fid);
@@ -109,7 +111,7 @@ app.get("/nft-holders/:contractAddress", async (req, res) => {
     } catch (error) {
       console.error('Error looking up FIDs:', error);
     }
-
+    
     try {
       const feedRes = await axios.get('https://api.neynar.com/v2/farcaster/feed', {
         headers: {
@@ -119,14 +121,14 @@ app.get("/nft-holders/:contractAddress", async (req, res) => {
         params: {
           feed_type: FeedType.Filter,
           filter_type: FilterType.Fids,
-          fids: fids?.join(","),
+          fids: fids.join(","),
           with_recasts: true,
           limit: 25
         }
       });
       feed = feedRes.data;
     } catch (error) {
-      console.error('Error looking up FIDs:', error);
+      console.error('Error fetching feed:', error);
     }
 
     res.json({

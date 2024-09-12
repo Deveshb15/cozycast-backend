@@ -90,37 +90,36 @@ app.get("/nft-holders/:contractAddress", async (req, res) => {
   }
 
   try {
-    const { contractAddress } = req.params;
-    // console.log('contract add is', contractAddress)
-    // // Step 1: Get NFT owners
     const alchemyUrl = `https://eth-mainnet.g.alchemy.com/nft/v3/${ALCHEMY_API_KEY}/getOwnersForContract?contractAddress=${contractAddress}&withTokenBalances=false`;
     const ownersResponse = await axios.get(alchemyUrl, {
       headers: { accept: 'application/json' },
     });
-    const owners = ownersResponse.data.owners; // Limit to 500 owners
-    console.log('owners', owners)
+    const owners = ownersResponse.data.owners;
+
     // Step 2: Look up FIDs for owners
     const fids = [];
     let feed = null;
-    const BATCH_SIZE = 100;
+    const BATCH_SIZE = 350;
+    const MAX_FIDS = 100;
 
     try {
-      const batch = owners.slice(0, BATCH_SIZE); // Create a batch of addresses
-      const users = await client.fetchBulkUsersByEthereumAddress(batch);
-      console.log('users', users)
-      for (const addr of batch) {
-        for (const [key, value] of Object.entries(users)) {
-          if (key?.toLowerCase() === addr?.toLowerCase()) {
-            fids.push(value[0].fid);
-            break;
+      for (let i = 0; i < owners.length && fids.length < MAX_FIDS; i += BATCH_SIZE) {
+        const batch = owners.slice(i, i + BATCH_SIZE);
+        const users = await client.fetchBulkUsersByEthereumAddress(batch);
+        for (const addr of batch) {
+          if (fids.length >= MAX_FIDS) break;
+          for (const [key, value] of Object.entries(users)) {
+            if (key?.toLowerCase() === addr?.toLowerCase()) {
+              fids.push(value[0].fid);
+              break;
+            }
           }
         }
       }
-      console.log('fids', fids)
     } catch (error) {
       console.error('Error looking up FIDs:', error);
     }
-
+    
     try {
       const feedRes = await axios.get('https://api.neynar.com/v2/farcaster/feed', {
         headers: {
@@ -130,15 +129,14 @@ app.get("/nft-holders/:contractAddress", async (req, res) => {
         params: {
           feed_type: FeedType.Filter,
           filter_type: FilterType.Fids,
-          fids: fids?.join(","),
+          fids: fids.join(","),
           with_recasts: true,
           limit: 25
         }
       });
       feed = feedRes.data;
-      console.log('feed', feed)
     } catch (error) {
-      console.error('Error looking up FIDs:', error);
+      console.error('Error fetching feed:', error);
     }
 
     const response = {
@@ -153,7 +151,7 @@ app.get("/nft-holders/:contractAddress", async (req, res) => {
 
     res.json(response);
   } catch (error) {
-    console.error('Error processing request:', error.message);
+    console.error('Error processing request:', error);
     res.status(500).json({ error: 'Failed to fetch NFT holders and their FIDs' });
   }
 });
