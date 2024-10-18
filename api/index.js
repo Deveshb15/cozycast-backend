@@ -1,6 +1,7 @@
 const express = require("express");
 const axios = require("axios"); // Add this line to import axios
 const fs = require("fs");
+const cors = require("cors"); // Add this line to import cors
 
 const {
   NeynarAPIClient,
@@ -14,6 +15,7 @@ require("dotenv").config({ path: ".env" });
 const app = express();
 
 app.use(json());
+app.use(cors()); // Add this line to enable CORS for all routes
 
 const NEYNAR_API_KEY = process.env.NEYNAR_API_KEY;
 const NEYNAR_CLIENT_ID = process.env.NEYNAR_CLIENT_ID;
