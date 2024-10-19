@@ -90,11 +90,19 @@ app.get("/nft-holders/:contractAddress", async (req, res) => {
   }
 
   try {
-    const alchemyUrl = `https://eth-mainnet.g.alchemy.com/nft/v3/${ALCHEMY_API_KEY}/getOwnersForContract?contractAddress=${contractAddress}&withTokenBalances=false`;
-    const ownersResponse = await axios.get(alchemyUrl, {
+    let alchemyUrl = `https://eth-mainnet.g.alchemy.com/nft/v3/${ALCHEMY_API_KEY}/getOwnersForContract?contractAddress=${contractAddress}&withTokenBalances=false`;
+    let ownersResponse = await axios.get(alchemyUrl, {
       headers: { accept: 'application/json' },
     });
-    const owners = ownersResponse.data.owners;
+    let owners = ownersResponse.data.owners;
+
+    if (owners.length === 0) {
+      alchemyUrl = `https://base-mainnet.g.alchemy.com/nft/v3/${ALCHEMY_API_KEY}/getOwnersForContract?contractAddress=${contractAddress}&withTokenBalances=false`;
+      ownersResponse = await axios.get(alchemyUrl, {
+        headers: { accept: 'application/json' },
+      });
+      owners = ownersResponse.data.owners;
+    }
 
     // Step 2: Look up FIDs for owners
     const fids = [];
@@ -117,7 +125,7 @@ app.get("/nft-holders/:contractAddress", async (req, res) => {
         }
       }
     } catch (error) {
-      console.error('Error looking up FIDs:', error);
+      console.error('Error looking up FIDs:', error.message);
     }
     
     try {
@@ -136,7 +144,7 @@ app.get("/nft-holders/:contractAddress", async (req, res) => {
       });
       feed = feedRes.data;
     } catch (error) {
-      console.error('Error fetching feed:', error);
+      console.error('Error fetching feed:', error.message);
     }
 
     const response = {
@@ -151,7 +159,7 @@ app.get("/nft-holders/:contractAddress", async (req, res) => {
 
     res.json(response);
   } catch (error) {
-    console.error('Error processing request:', error);
+    console.error('Error processing request:', error.message);
     res.status(500).json({ error: 'Failed to fetch NFT holders and their FIDs' });
   }
 });
