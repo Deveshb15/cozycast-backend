@@ -83,11 +83,19 @@ app.get("/nft-holders/:contractAddress", async (req, res) => {
     const { contractAddress } = req.params;
     // console.log('contract add is', contractAddress)
     // // Step 1: Get NFT owners
-    const alchemyUrl = `https://eth-mainnet.g.alchemy.com/nft/v3/${ALCHEMY_API_KEY}/getOwnersForContract?contractAddress=${contractAddress}&withTokenBalances=false`;
-    const ownersResponse = await axios.get(alchemyUrl, {
+    let alchemyUrl = `https://eth-mainnet.g.alchemy.com/nft/v3/${ALCHEMY_API_KEY}/getOwnersForContract?contractAddress=${contractAddress}&withTokenBalances=false`;
+    let ownersResponse = await axios.get(alchemyUrl, {
       headers: { accept: 'application/json' },
     });
-    const owners = ownersResponse.data.owners; // Limit to 500 owners
+    let owners = ownersResponse.data.owners;
+
+    if (owners.length === 0) {
+      alchemyUrl = `https://base-mainnet.g.alchemy.com/nft/v3/${ALCHEMY_API_KEY}/getOwnersForContract?contractAddress=${contractAddress}&withTokenBalances=false`;
+      ownersResponse = await axios.get(alchemyUrl, {
+        headers: { accept: 'application/json' },
+      });
+      owners = ownersResponse.data.owners;
+    }
 
 
     // Step 2: Look up FIDs for owners
